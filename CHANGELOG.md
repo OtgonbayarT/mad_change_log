@@ -3,6 +3,7 @@
 
 ### Release Highlights
 
+* linked table features
 * Report bug fixes
 * UI improvement
 
