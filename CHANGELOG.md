@@ -2,15 +2,25 @@
 # [1.0.111](https://demo.interval-soft.com/) (2020-04-09)
 
 ### Release Highlights
- vlah blah blah
+
+* Report bug fixes
+* UI improvement
 
 ### Features
+
+* **discard function:** 
+  * implemented to all forms of Linked table (Daima)
+
+* **Report:** 
+  * on the section VGPA 10 Local when no data showing "The valuer did not identify any local or market specific matters that may give rise to material valuation uncertainties" text (Otgoo)
 
 * **toe-report progress:** 
   * close button delay will become smaller (Otgoo)
 
-
 ### Bug Fixes
+
+* **Report:** 
+  * Dev Test removed from all sections(Otgoo)
 
 
 <a name="1.0.110"></a>
