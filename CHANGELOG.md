@@ -2,7 +2,7 @@
 # [1.0.111](https://demo.interval-soft.com/) (2020-04-09)
 
 ### Release Highlights
-
+ vlah blah blah
 
 ### Features
 
