@@ -11,7 +11,7 @@
 * **Report:** 
   * TOC update on word document open "downside might ask save on file close" (Otgoo)
 
- * **UI:** 
+* **UI:** 
   * generate new toe button enable delay addressed (Otgoo)
 
 <a name="1.0.111"></a>
