@@ -1,3 +1,15 @@
+<a name="1.0.112"></a>
+# [1.0.112](https://demo.interval-soft.com/) (2020-04-10)
+
+### Release Highlights
+
+* Report improvement
+
+### Features
+
+* **Report:** 
+  * TOC update on word document open "downside might ask save on file close" (Otgoo)
+
 <a name="1.0.111"></a>
 # [1.0.111](https://demo.interval-soft.com/) (2020-04-09)
 
