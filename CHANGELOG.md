@@ -22,6 +22,8 @@
 
 * **Report:** 
   * Dev Test removed from all sections(Otgoo)
+* **App:** 
+  * fixed Admin trash of City bug  (Daima)
 
 
 <a name="1.0.110"></a>
