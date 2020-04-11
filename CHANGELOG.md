@@ -13,6 +13,12 @@
 
 * **UI:** 
   * generate new toe button enable delay addressed (Otgoo)
+  * implemented discard function on TOE form (Daima)
+ 
+### Bug Fixes
+* **App:** 
+  * fixed CSS Bug Comparable form / Considerations / Leasehold  (Daima)
+  * fixed sort bug of tables  (Daima)
 
 <a name="1.0.111"></a>
 # [1.0.111](https://demo.interval-soft.com/) (2020-04-09)
