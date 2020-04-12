@@ -1,3 +1,19 @@
+<a name="1.0.113"></a>
+# [1.0.113](https://demo.interval-soft.com/) (2020-04-12)
+
+### Release Highlights
+
+* UI improvement
+* bug fix
+
+### Features
+
+* **UI:** 
+  * audit reports history section added (Otgoo)
+ 
+### Bug Fixes
+* **App:** 
+  * countries dropdown appears empty fixed (Otgoo)
 <a name="1.0.112"></a>
 # [1.0.112](https://demo.interval-soft.com/) (2020-04-10)
 
