@@ -3,7 +3,16 @@
 
 ### Release Highlights
 
+* UI improvement
 * bug fix
+
+### Features
+
+* **Report:** 
+  * many more" (Otgoo)
+
+* **UI:** 
+  * audit report history's choosing option cleared (Otgoo)
  
 ### Bug Fixes
 * **Toe:** 
