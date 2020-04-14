@@ -21,6 +21,9 @@
 ### Bug Fixes
 * **Toe:** 
   * cannot validate fixed (Otgoo)
+  * fixed disclosure file bug (Daima)
+
+
 
 <a name="1.0.113"></a>
 # [1.0.113](https://demo.interval-soft.com/) (2020-04-12)
