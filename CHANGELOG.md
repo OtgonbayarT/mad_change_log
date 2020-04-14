@@ -1,5 +1,5 @@
 <a name="1.0.114"></a>
-# [1.0.114](https://demo.interval-soft.com/) (2020-04-13)
+# [1.0.114](https://demo.interval-soft.com/) (2020-04-14)
 
 ### Release Highlights
 
@@ -9,7 +9,10 @@
 ### Features
 
 * **Report:** 
-  * many more" (Otgoo)
+  * group of properties(xxx) added on tp's name (Otgoo)
+  * conflict tp's name become red (Otgoo)
+  * target property's inspection date will be become 'N/A' if its desktop valuation (Otgoo)
+  * disclosure question 6th uploaded files description added on top of attachment (Otgoo)
 
 * **UI:** 
   * audit report history's choosing option cleared (Otgoo)
