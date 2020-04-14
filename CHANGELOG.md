@@ -13,6 +13,7 @@
   * conflict tp's name become red (Otgoo)
   * target property's inspection date will be become 'N/A' if its desktop valuation (Otgoo)
   * disclosure question 6th uploaded files description added on top of attachment (Otgoo)
+  * disclosure question 6th if has uploaded file show '(Please check the attached file(s) in the Appendices section of this document)' on report (Otgoo)
 
 * **UI:** 
   * audit report history's choosing option cleared (Otgoo)
