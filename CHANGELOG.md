@@ -11,6 +11,11 @@
   * informed consent condition changed (Otgoo)
   * informed consent tp label changed situationally (Otgoo)
 
+### Bug Fixes
+
+* **Toe Form:** 
+  * on validate checking lead valuer exists (Otgoo)
+
 
 <a name="1.0.114"></a>
 # [1.0.114](https://demo.interval-soft.com/) (2020-04-14)
