@@ -15,6 +15,12 @@
 
 * **Toe Form:** 
   * on validate checking lead valuer exists (Otgoo)
+  * fixed all city dropdown bug (Daima)
+  * tooltip changed on Apartments and Building List (Daima)
+  * Apartment Type position changed ont Apartment form (Daima)
+  * Landmark form bug fixed (Daima)
+  * removed Title bar of picture table in Landmark form (Daima)
+
 
 
 <a name="1.0.114"></a>
