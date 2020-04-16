@@ -1,3 +1,17 @@
+<a name="1.0.115"></a>
+# [1.0.115](https://demo.interval-soft.com/) (2020-04-16)
+
+### Release Highlights
+
+* Report changes
+
+### Features
+
+* **Toe Report:** 
+  * informed consent condition changed (Otgoo)
+  * informed consent tp label changed situationally (Otgoo)
+
+
 <a name="1.0.114"></a>
 # [1.0.114](https://demo.interval-soft.com/) (2020-04-14)
 
