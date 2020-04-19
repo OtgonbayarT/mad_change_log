@@ -1,3 +1,18 @@
+<a name="1.0.116"></a>
+# [1.0.116](https://demo.interval-soft.com/) (2020-04-20)
+
+### Features
+
+* **App:** 
+  * implemented trash system on Market research list , Appendix category list and Training Documents list (Daima)
+  * added search by city field on New Landmark form (Daima)
+
+### Bug Fixes
+
+* **App:** 
+  * fixed Apartment form order bug of tables (Daima)
+
+
 <a name="1.0.115"></a>
 # [1.0.115](https://demo.interval-soft.com/) (2020-04-16)
 
