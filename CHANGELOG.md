@@ -1,3 +1,15 @@
+<a name="1.0.117"></a>
+# [1.0.117](https://demo.interval-soft.com/) (2020-04-22)
+
+### Features
+
+* **App:** 
+  * implemented notification system (Daima)
+  * when creating a new Assignment, the Project manager of the Assignment will receive a notification about it
+  * when clicking on the notification, enter to Edit Assignment form  and the notification status will be changed 
+
+
+
 <a name="1.0.116"></a>
 # [1.0.116](https://demo.interval-soft.com/) (2020-04-20)
 
@@ -11,6 +23,7 @@
 
 * **App:** 
   * fixed Apartment form order bug of tables (Daima)
+
 
 
 <a name="1.0.115"></a>
