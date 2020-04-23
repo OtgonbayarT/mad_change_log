@@ -2,11 +2,20 @@
 <a name="1.0.118"></a>
 # [1.0.118](https://demo.interval-soft.com/) (2020-04-23)
 
+### Features
+
+* **UI changes:** 
+  * ToE 3rd tab's question 4th tp pop ups button label changed (Otgoo)
+  * Toe 2nd tab Asset classes 1st checkboxes free text label changed into "Specify which one(s) are excluded" (Otgoo)
+  * Toe 2nd tab Asset classes surface field label changed into Surface area (Otgoo)
+  * Toe 2nd tab Asset classes surface field datatype changed from integer into decimal (Otgoo)
+
 ### Bug Fixes
 
 * **Toe Form:** 
   * team member delete issue fixed (Otgoo)
-  * discount, vat & other vat value set - by default (Otgoo)
+  * discount, vat & other vat value set 0 - by default (Otgoo)
+  * 2nd tab Asset classes surface field mask prefix has buggy feature inherited from 3rd party component workaround added (Otgoo)
 
 
 <a name="1.0.117"></a>
