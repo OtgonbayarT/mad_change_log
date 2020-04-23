@@ -5,10 +5,10 @@
 ### Features
 
 * **UI changes:** 
-  *(18) ToE 3rd tab's question 4th tp pop ups button label changed (Otgoo)
-  *(14) Toe 2nd tab Asset classes 1st checkboxes free text label changed into "Specify which one(s) are excluded" (Otgoo)
-  *(13) Toe 2nd tab Asset classes surface field label changed into Surface area (Otgoo)
-  *(31) Toe 2nd tab Asset classes surface field datatype changed from integer into decimal (Otgoo)
+  * (18) ToE 3rd tab's question 4th tp pop ups button label changed (Otgoo)
+  * (14) Toe 2nd tab Asset classes 1st checkboxes free text label changed into "Specify which one(s) are excluded" (Otgoo)
+  * (13) Toe 2nd tab Asset classes surface field label changed into Surface area (Otgoo)
+  * (31) Toe 2nd tab Asset classes surface field datatype changed from integer into decimal (Otgoo)
 
 ### Bug Fixes
 
