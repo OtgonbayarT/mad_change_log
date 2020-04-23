@@ -1,3 +1,14 @@
+
+<a name="1.0.118"></a>
+# [1.0.118](https://demo.interval-soft.com/) (2020-04-23)
+
+### Bug Fixes
+
+* **Toe Form:** 
+  * team member delete issue fixed (Otgoo)
+  * discount, vat & other vat value set - by default (Otgoo)
+
+
 <a name="1.0.117"></a>
 # [1.0.117](https://demo.interval-soft.com/) (2020-04-22)
 
