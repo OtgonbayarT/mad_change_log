@@ -6,7 +6,7 @@
 
 * **Toe Form:** 
   * (24) toe draft deleteing target property fixed (Otgoo)
-  * (15) toe->target property_>external references validation fixed (Otgoo)
+  * (15) toe -> target property -> external references validation fixed (Otgoo)
 
 
 <a name="1.0.118"></a>
