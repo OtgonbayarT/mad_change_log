@@ -7,6 +7,16 @@
 * **Toe Form:** 
   * (24) toe draft deleteing target property fixed (Otgoo)
   * (15) toe -> target property -> external references validation fixed (Otgoo)
+  * (20) toe -> back button tooltip (Daima)
+* **Toe Dashboard:** 
+  * (28) fixed -> back button tooltip (Daima)
+
+* **Company Client:** 
+  * (28) removed trash from contact list (Daima)
+  
+* **Toe List:** 
+  * (10) fixed - if restore a ToE from the trash after deleting it, you cannot conduct any action (Daima)
+  
 
 
 <a name="1.0.118"></a>
