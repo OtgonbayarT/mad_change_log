@@ -1,4 +1,14 @@
 
+<a name="1.0.119"></a>
+# [1.0.119](https://demo.interval-soft.com/) (2020-04-24)
+
+### Bug Fixes
+
+* **Toe Form:** 
+  * (24) toe draft deleteing target property fixed (Otgoo)
+  * (15) toe->target property_>external references validation fixed (Otgoo)
+
+
 <a name="1.0.118"></a>
 # [1.0.118](https://demo.interval-soft.com/) (2020-04-23)
 
