@@ -1,4 +1,14 @@
 
+<a name="1.0.120"></a>
+# [1.0.120](https://demo.interval-soft.com/) (2020-04-27)
+
+### Bug Fixes
+
+* **Toe Form:** 
+  * (27) additional cost tooltip fixed (Otgoo)
+  * toe -> team members delete refixed (Otgoo)
+  
+
 <a name="1.0.119"></a>
 # [1.0.119](https://demo.interval-soft.com/) (2020-04-24)
 
