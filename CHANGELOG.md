@@ -1,4 +1,23 @@
 
+<a name="1.0.121"></a>
+# [1.0.121](https://demo.interval-soft.com/) (2020-04-28)
+
+### Features
+
+* **UI changes:** 
+  * toe -> payment sections UI changed                                    (19) (Otgoo)
+  * toe -> general radio button q3 label changed                          (18) (Otgoo)
+  * toe -> asset_class delete from list will be asking Are you sure?      (4) (Otgoo)
+  * toe -> COI question 4a & other will check Asset class empty when empty
+           will show following text "Target properties list empty!"       (6) (Otgoo)
+
+### Bug Fixes
+
+* **Toe Form:** 
+  * toe    -> payment discount, vat calculation fixed                                  (7) (Otgoo)
+  * toe    -> COI  all description fields become adjustable                            (14) (Otgoo)
+  * client -> deleting contact removing all newly added contact at the same time fixed (11) (Otgoo)
+
 <a name="1.0.120"></a>
 # [1.0.120](https://demo.interval-soft.com/) (2020-04-27)
 
