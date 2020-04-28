@@ -5,18 +5,18 @@
 ### Features
 
 * **UI changes:** 
-  * ```toe -> payment sections UI changed                                    (19) (Otgoo)```
-  * ```toe -> general radio button q3 label changed                          (18) (Otgoo)
-  * ```toe -> asset_class delete from list will be asking Are you sure?      (4) (Otgoo)
-  * ```toe -> COI question 4a & other will check Asset class empty when empty
-              will show following text "Target properties list empty!"       (6) (Otgoo)```
+  * (19) toe -> payment sections UI changed                                    (Otgoo)
+  * (18) toe -> general radio button q3 label changed                          (Otgoo)
+  * (4)  toe -> asset_class delete from list will be asking Are you sure?      (Otgoo)
+  * (6)  toe -> COI question 4a & other will check Asset class empty when empty
+              will show following text "Target properties list empty!"         (Otgoo)
 
 ### Bug Fixes
 
 * **Toe Form:** 
-  * ```toe    -> payment discount, vat calculation fixed                                  (7) (Otgoo)```
-  * ```toe    -> COI  all description fields become adjustable                            (14) (Otgoo)```
-  * ```client -> deleting contact removing all newly added contact at the same time fixed (11) (Otgoo)```
+  * (7)  toe    -> payment discount, vat calculation fixed                                  (Otgoo)
+  * (14) toe    -> COI  all description fields become adjustable                            (Otgoo)
+  * (11) client -> deleting contact removing all newly added contact at the same time fixed (Otgoo)
 
 <a name="1.0.120"></a>
 # [1.0.120](https://demo.interval-soft.com/) (2020-04-27)
