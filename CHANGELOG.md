@@ -5,7 +5,7 @@
 ### Features
 
 * **UI changes:** 
-  * toe -> payment sections UI changed                                    (19) (Otgoo)
+  * toe -> payment sections UI changed &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(19) (Otgoo)
   * toe -> general radio button q3 label changed                          (18) (Otgoo)
   * toe -> asset_class delete from list will be asking Are you sure?      (4) (Otgoo)
   * toe -> COI question 4a & other will check Asset class empty when empty
