@@ -17,6 +17,7 @@
   * (7)  toe    -> payment discount, vat calculation fixed                                  (Otgoo)
   * (14) toe    -> COI  all description fields become adjustable                            (Otgoo)
   * (11) client -> deleting contact removing all newly added contact at the same time fixed (Otgoo)
+  * toe -> tab layouts stacked each other fixed (Otgoo)
 
 <a name="1.0.120"></a>
 # [1.0.120](https://demo.interval-soft.com/) (2020-04-27)
