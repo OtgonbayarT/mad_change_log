@@ -13,7 +13,6 @@
 
 * **Toe Form:** 
   * (23)  toe -> lead valuer check duplication fixed             (Otgoo)
-  
 
 <a name="1.0.121"></a>
 # [1.0.121](https://demo.interval-soft.com/) (2020-04-28)
