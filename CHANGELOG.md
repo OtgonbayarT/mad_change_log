@@ -1,3 +1,19 @@
+<a name="1.0.122"></a>
+# [1.0.122](https://demo.interval-soft.com/) (2020-04-29)
+
+### Features
+
+* **Report changes:** 
+  * toe -> report generation file renamed                         (Otgoo)
+  
+* **Label changes:** 
+  * (25)  toe -> COI  q4 label changed                           (Otgoo)
+
+### Bug Fixes
+
+* **Toe Form:** 
+  * (23)  toe -> lead valuer check duplication fixed             (Otgoo)
+  
 
 <a name="1.0.121"></a>
 # [1.0.121](https://demo.interval-soft.com/) (2020-04-28)
