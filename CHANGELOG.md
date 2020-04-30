@@ -1,3 +1,22 @@
+<a name="1.0.123"></a>
+# [1.0.123](https://demo.interval-soft.com/) (2020-04-30)
+
+### Features
+
+* **date format uniformed:** 
+  * (25)  audit list -> interations date column                (Daima)
+  * (20)  general form -> all date fields                      (Daima)
+* **Appendice category:** 
+  * (25)  Appendice category list -> added a new column         (Daima)
+
+### Bug Fixes
+  * (9,10)  Audit trail trashed -> fixed action button         (Daima)
+  * (15)  Audit trail -> fixed back button loop                (Daima)
+  * (17) Assignments list -> fixed order function tables       (Daima)
+  
+
+<a name="1.0.121"></a>
+# [1.0.121](https://demo.interval-soft.com/) (2020-04-28)
 <a name="1.0.122"></a>
 # [1.0.122](https://demo.interval-soft.com/) (2020-04-29)
 
