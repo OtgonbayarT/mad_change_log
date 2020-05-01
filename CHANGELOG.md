@@ -6,10 +6,13 @@
 * **General:** 
   * zipcode label changed into Zipcode/Postalcode       (Otgoo)
   * zipcode become a freetext                           (Otgoo)
+* **Project management:** 
+  *  Project management and TOE Dashboard merged         (Daima)
 
 ### Bug Fixes
   * toe -> unqualified team member becoming lead valuer fixed (Otgoo)
-
+  * inspection form -> change tooltips  (Daima)
+  
 <a name="1.0.123"></a>
 # [1.0.123](https://demo.interval-soft.com/) (2020-04-30)
 
