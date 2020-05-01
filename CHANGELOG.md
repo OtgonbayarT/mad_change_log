@@ -1,3 +1,15 @@
+<a name="1.0.124"></a>
+# [1.0.124](https://demo.interval-soft.com/) (2020-05-01)
+
+### Features
+
+* **General:** 
+  * zipcode label changed into Zipcode/Postalcode       (Otgoo)
+  * zipcode become a freetext                           (Otgoo)
+
+### Bug Fixes
+  * toe -> unqualified team member becoming lead valuer fixed (Otgoo)
+
 <a name="1.0.123"></a>
 # [1.0.123](https://demo.interval-soft.com/) (2020-04-30)
 
