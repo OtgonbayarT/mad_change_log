@@ -1,3 +1,15 @@
+<a name="1.0.125"></a>
+# [1.0.125](https://demo.interval-soft.com/) (2020-05-04)
+
+### Bug Fixes
+
+* **Toe:** 
+  * payment list sort headers removed      (Otgoo)
+
+* **Audit list:** 
+  * audit list filter fix attempt #1       (Otgoo)
+
+
 <a name="1.0.124"></a>
 # [1.0.124](https://demo.interval-soft.com/) (2020-05-01)
 
