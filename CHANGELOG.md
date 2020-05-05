@@ -1,8 +1,13 @@
 <a name="1.0.125"></a>
 # [1.0.125](https://demo.interval-soft.com/) (2020-05-04)
 
-### Bug Fixes
+### Features
 
+* **Assignment:** 
+  * added small icons with Tooltip       (Daima)
+  
+### Bug Fixes
+  
 * **Toe:** 
   * payment list sort headers removed      (Otgoo)
 
