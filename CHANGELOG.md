@@ -1,3 +1,12 @@
+<a name="1.0.126"></a>
+# [1.0.126](https://demo.interval-soft.com/) (2020-05-05)
+
+### Features
+
+* **General:** 
+  * Changed all "specify which one(s)" to "Please specify"        (Otgoo)
+  * "____ is required" changed to "____ required"        (Otgoo)
+
 <a name="1.0.125"></a>
 # [1.0.125](https://demo.interval-soft.com/) (2020-05-04)
 
