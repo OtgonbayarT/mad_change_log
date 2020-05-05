@@ -6,7 +6,7 @@
 * **General:** 
   * Changed all "specify which one(s)" to "Please specify" (Otgoo)
   * "____ is required" changed to "____ required" (Otgoo)
-  * ToE -> COI group tp's "," changed into ", " (Otgoo)
+  * ToE -> COI group tp's "," changed into ", " try #1 (Otgoo)
 
 <a name="1.0.125"></a>
 # [1.0.125](https://demo.interval-soft.com/) (2020-05-04)
