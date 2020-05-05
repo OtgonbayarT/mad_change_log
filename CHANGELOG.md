@@ -14,13 +14,13 @@
 * **Audit list:** 
   * audit list filter fix attempt #1       (Otgoo)
   
-  * **Apartment list:** 
+* **Apartment list:** 
   * Date format changed                    (Daima)  
   
-  * **Inspection form:** 
+* **Inspection form:** 
   * limitation validated                   (Daima)  
   
-  * **General:** 
+* **General:** 
   * Changed "No City" to "Please add city to Cities List"  (Daima)
 
 
