@@ -1,3 +1,19 @@
+
+<a name="1.0.127"></a>
+# [1.0.127](https://demo.interval-soft.com/) (2020-05-06)
+
+* **Assignment:** 
+  * Form - Fixed working 2 event when click the tooltip (Daima)
+  * List - upgraded trash system (Daima)
+* **Appartment:** 
+  * Form - save with city of location (Daima)
+  * List - added search by city (Daima)
+* **Inspection:** 
+  * Form - check to discard changes (Daima)  
+  
+* **Market research:** 
+  * Form - added General on the city list (Daima)  
+  
 <a name="1.0.126"></a>
 # [1.0.126](https://demo.interval-soft.com/) (2020-05-05)
 
@@ -12,15 +28,6 @@
   
 * **Assignment:** 
   * Form - Fixed working 2 event when click the tooltip (Daima)
-  * List - upgraded trash system (Daima)
-* **Appartment:** 
-  * Form - save with city of location (Daima)
-  * List - added search by city (Daima)
-* **Inspection:** 
-  * Form - check to discard changes (Daima)  
-  
-* **Market research:** 
-  * Form - added General on the city list (Daima)  
 <a name="1.0.125"></a>
 # [1.0.125](https://demo.interval-soft.com/) (2020-05-04)
 
