@@ -4,9 +4,14 @@
 ### Features
 
 * **General:** 
+  * Changed tooltips to Uppercase (Daima)
+  * Rechecked and change the word TOE to ToE (Daima)
   * Changed all "specify which one(s)" to "Please specify" (Otgoo)
   * "____ is required" changed to "____ required" (Otgoo)
   * ToE -> COI group tp's "," changed into ", " try #1 (Otgoo)
+  
+* **Assignment:** 
+  * Fixed working 2 event when click the tooltip (Daima)
 
 <a name="1.0.125"></a>
 # [1.0.125](https://demo.interval-soft.com/) (2020-05-04)
