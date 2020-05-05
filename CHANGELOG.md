@@ -4,7 +4,7 @@
 ### Features
 
 * **Assignment:** 
-  * added small icons with Tooltip       (Daima)
+  * added small icons with Tooltip        (Daima)
   
 ### Bug Fixes
   
@@ -13,6 +13,15 @@
 
 * **Audit list:** 
   * audit list filter fix attempt #1       (Otgoo)
+  
+  * **Apartment list:** 
+  * Date format changed                    (Daima)  
+  
+  * **Inspection form:** 
+  * limitation validated                   (Daima)  
+  
+  * **General:** 
+  * Changed "No City" to "Please add city to Cities List"  (Daima)
 
 
 <a name="1.0.124"></a>
