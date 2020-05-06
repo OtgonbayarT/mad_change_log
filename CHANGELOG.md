@@ -25,6 +25,11 @@
   * Changed all "specify which one(s)" to "Please specify" (Otgoo)
   * "____ is required" changed to "____ required" (Otgoo)
   * ToE -> COI group tp's "," changed into ", " try #1 (Otgoo)
+
+### Bug Fixes
+  
+* **Toe:** 
+  * asset class cannot draft, validate fixed             (Daimaa)
   
 * **Assignment:** 
   * Form - Fixed working 2 event when click the tooltip (Daima)
