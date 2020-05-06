@@ -26,13 +26,14 @@
   * "____ is required" changed to "____ required" (Otgoo)
   * ToE -> COI group tp's "," changed into ", " try #1 (Otgoo)
 
+ * **Assignment:** 
+  * Form - Fixed working 2 event when click the tooltip (Daima)
+
 ### Bug Fixes
   
 * **Toe:** 
   * asset class cannot draft, validate fixed             (Daimaa)
-  
-* **Assignment:** 
-  * Form - Fixed working 2 event when click the tooltip (Daima)
+
 <a name="1.0.125"></a>
 # [1.0.125](https://demo.interval-soft.com/) (2020-05-04)
 
