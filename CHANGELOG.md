@@ -9,8 +9,7 @@
   * Form - save with city of location (Daima)
   * List - added search by city (Daima)
 * **Inspection:** 
-  * Form - check to discard changes (Daima)  
-  
+  * Form - check to discard changes (Daima)   
 * **Market research:** 
   * Form - added General on the city list (Daima)  
   
@@ -26,7 +25,7 @@
   * "____ is required" changed to "____ required" (Otgoo)
   * ToE -> COI group tp's "," changed into ", " try #1 (Otgoo)
 
- * **Assignment:** 
+* **Assignment:** 
   * Form - Fixed working 2 event when click the tooltip (Daima)
 
 ### Bug Fixes
