@@ -11,7 +11,7 @@
 ### Bug Fixes
 
 * **Toe:** 
-  * discard changes? will ask on tps, payment, delivery_detail changes too (Otgoo)
+  * discard changes? will ask on tps, payment, delivery_detail changes too (conflict, disclosure not included) (Otgoo)
   
 * **landmark:** 
   * mandatory fields error message fixed (Otgoo)
