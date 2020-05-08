@@ -7,6 +7,7 @@
 * **General:** 
   * "Please enter City Name" text removed application wide removed "Please enter *" too (Otgoo)
   * q1 of add target property should be "Please specify exclusions" changed (Otgoo)
+  * popup text changed into Are you sure? (Otgoo)
   
 ### Bug Fixes
 
