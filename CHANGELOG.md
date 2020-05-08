@@ -1,4 +1,21 @@
 
+<a name="1.0.128"></a>
+# [1.0.128](https://demo.interval-soft.com/) (2020-05-08)
+
+### Features
+
+* **General:** 
+  * "Please enter City Name" text removed application wide removed "Please enter *" too (Otgoo)
+  * q1 of add target property should be "Please specify exclusions" changed (Otgoo)
+  
+### Bug Fixes
+
+* **Toe:** 
+  * discard changes? will ask on tps, payment, delivery_detail changes too (Otgoo)
+  
+* **landmark:** 
+  * mandatory fields error message fixed (Otgoo)
+
 <a name="1.0.127"></a>
 # [1.0.127](https://demo.interval-soft.com/) (2020-05-06)
 
