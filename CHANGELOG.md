@@ -6,6 +6,7 @@
 
 * **General:** 
   * "Please enter City Name" text removed, application wide "Please enter *" removed too (Otgoo)
+  * changed some tooltip to Uppercase (Daima)
   * q1 of add target property should be "Please specify exclusions" changed (Otgoo)
   * popup text changed into Are you sure? (Otgoo)
   
@@ -16,6 +17,11 @@
   
 * **landmark:** 
   * mandatory fields error message fixed (Otgoo)
+
+* **Appendix:** 
+  * List- fixed sort bug (Daima)
+* **Market research :** 
+  * List- fixed sort bug (sortable with "general" if sort by City ) (Daima)
 
 <a name="1.0.127"></a>
 # [1.0.127](https://demo.interval-soft.com/) (2020-05-06)
