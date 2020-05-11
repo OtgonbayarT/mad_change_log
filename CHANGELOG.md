@@ -1,5 +1,26 @@
 
 
+<a name="1.0.129"></a>
+# [1.0.129](https://demo.interval-soft.com/) (2020-05-11)
+
+### Features
+* **General:** 
+  * (47,48,49,50,51,52) "Wrong heading" fixed too (Daima)
+   
+
+### Bug Fixes
+
+* **Apartment:** 
+  * List- fixed sort bug (Daima)
+* **Building:** 
+  * List- fixed sort bug (Daima)
+* **Landmark:** 
+  * List- fixed sort bug (Daima)
+* **Currency:** 
+  * List- made "symbol" heading unsortable (Daima)  
+* **Contact list for company client:** 
+  * List- made "phone" heading unsortable (Daima)    
+
 <a name="1.0.128"></a>
 # [1.0.128](https://demo.interval-soft.com/) (2020-05-08)
 
@@ -23,7 +44,7 @@
 * **Appendix:** 
   * List- fixed sort bug (Daima)
 * **Market research :** 
-  * List- fixed sort bug (sortable with "general" if sort by City ) (Daima)
+  * List- fixed sort bug (sortable with "General" if sort by City ) (Daima)
 
 <a name="1.0.127"></a>
 # [1.0.127](https://demo.interval-soft.com/) (2020-05-06)
