@@ -1,4 +1,5 @@
 
+
 <a name="1.0.128"></a>
 # [1.0.128](https://demo.interval-soft.com/) (2020-05-08)
 
@@ -14,6 +15,7 @@
 
 * **Toe:** 
   * discard changes? will ask on tps, payment, delivery_detail changes too (conflict, disclosure not included) (Otgoo)
+  * got rid of the “Draft/Validated/Signed” droplist on ToE dashboard  (Otgoo)
   
 * **landmark:** 
   * mandatory fields error message fixed (Otgoo)
