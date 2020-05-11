@@ -4,6 +4,9 @@
 # [1.0.129](https://demo.interval-soft.com/) (2020-05-11)
 
 ### Features
+
+* **Assignment:** 
+  * add a Tooltip button next to header of Form with new UI (Daima)
 * **General:** 
   * (47,48,49,50,51,52) "Wrong heading" fixed too (Daima)
    
