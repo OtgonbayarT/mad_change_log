@@ -15,6 +15,7 @@
 
 * **Building:** 
   * (54) Form - fixed the updating bug (Daima)
+  * Copy building Dialog - fixed the disappearing bug when the second click (Daima)
   
 * **Audit Trail:** 
   * Trash- show Description (Daima)
