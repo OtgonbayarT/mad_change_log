@@ -1,4 +1,25 @@
 
+<a name="1.0.130"></a>
+# [1.0.130](https://demo.interval-soft.com/) (2020-05-14)
+
+### Features
+
+* **User compoent:** 
+  * removed messages and activity
+  * User profile button linked the User Edit Form
+  
+### Bug Fixes
+
+* **General:** 
+  * (47, 52) Switch support and help text around [Help -> Support, researches - research] (Daima)
+
+* **Building:** 
+  * (54) Form - fixed the updating bug (Daima)
+  
+* **Audit Trail:** 
+  * Trash- show Description (Daima)
+* **Inspection:** 
+  * Form- required alert of flooring and window types (Daima)  
 
 <a name="1.0.129"></a>
 # [1.0.129](https://demo.interval-soft.com/) (2020-05-11)
