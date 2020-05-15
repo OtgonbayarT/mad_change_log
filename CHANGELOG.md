@@ -6,12 +6,12 @@
 
 * **Tooltip:** 
   * 
-  * change page Tooltip UI
-  * added tooltip on Forms (Toe, Audit Trails, Inspection, Apartment, Building, User, Source component, Agency, Country, Landmark, Market research, Appendix)[except TP dialog]
+  * change page Tooltip UI (Daima)
+  * added tooltip on Forms (Toe, Audit Trails, Inspection, Apartment, Building, User, Source component, Agency, Country, Landmark, Market research, Appendix)[except TP dialog] (Daima)
   
 ### Bug Fixes
 
-  * add button to show Description of interaction on AUDIT Trash 
+  * add button to show Description of interaction on AUDIT Trash  (Daima)
 
 <a name="1.0.130"></a>
 # [1.0.130](https://demo.interval-soft.com/) (2020-05-14)
