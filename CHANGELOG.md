@@ -1,4 +1,18 @@
 
+<a name="1.0.131"></a>
+# [1.0.131](https://demo.interval-soft.com/) (2020-05-15)
+
+### Features
+
+* **Tooltip:** 
+  * 
+  * change page Tooltip UI
+  * added tooltip on Forms (Toe, Audit Trails, Inspection, Apartment, Building, User, Source component, Agency, Country, Landmark, Market research, Appendix)[except TP dialog]
+  
+### Bug Fixes
+
+  * add button to show Description of interaction on AUDIT Trash 
+
 <a name="1.0.130"></a>
 # [1.0.130](https://demo.interval-soft.com/) (2020-05-14)
 
