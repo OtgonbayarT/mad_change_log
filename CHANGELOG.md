@@ -1,3 +1,18 @@
+<a name="1.0.132"></a>
+# [1.0.132](https://demo.interval-soft.com/) (2020-05-17)
+
+### Features
+
+* **General:** 
+  * type changes added (Otgoo)
+
+ * **Comparable office:** 
+  * list/map/form added (Otgoo)
+  * linked tables added (Otgoo)
+  
+### Bug Fixes
+
+  * datetime format chagnes leading into error fixed on comparable form  (Otgoo)
 
 <a name="1.0.131"></a>
 # [1.0.131](https://demo.interval-soft.com/) (2020-05-15)
