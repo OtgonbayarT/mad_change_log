@@ -1,3 +1,14 @@
+<a name="1.0.133"></a>
+# [1.0.133](https://demo.interval-soft.com/) (2020-05-18)
+
+### Features
+
+* **General:** 
+  * comparable retail early verison added (Otgoo)
+
+### Bug Fixes
+  * comparable office map view fixed (Otgoo)
+  
 <a name="1.0.132"></a>
 # [1.0.132](https://demo.interval-soft.com/) (2020-05-17)
 
