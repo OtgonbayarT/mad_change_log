@@ -5,9 +5,11 @@
 
 * **General:** 
   * comparable retail early verison added (Otgoo)
+  *close info window when clicking on map [Building, Apartment, Landmark](Daima)
 
 ### Bug Fixes
   * comparable office map view fixed (Otgoo)
+  * (45)fixed Inspection form - copy existing building data (Daima)
   
 <a name="1.0.132"></a>
 # [1.0.132](https://demo.interval-soft.com/) (2020-05-17)
@@ -16,6 +18,12 @@
 
 * **General:** 
   * type changes added (Otgoo)
+
+* **Add TP dialog:** 
+  * tooltips added (Daima)
+  
+* **Toe delivery tab:** 
+  * tooltips added (Daima)  
 
  * **Comparable office:** 
   * list/map/form added (Otgoo)
