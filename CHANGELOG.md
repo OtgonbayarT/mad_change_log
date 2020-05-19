@@ -6,6 +6,13 @@
 * **General:** 
   * comparable retail early verison added (Otgoo)
   *close info window when clicking on map [Building, Apartment, Landmark](Daima)
+  
+  
+* **Add TP dialog:** 
+  * tooltips added (Daima)
+  
+* **Toe delivery tab:** 
+  * tooltips added (Daima)  
 
 ### Bug Fixes
   * comparable office map view fixed (Otgoo)
@@ -19,11 +26,6 @@
 * **General:** 
   * type changes added (Otgoo)
 
-* **Add TP dialog:** 
-  * tooltips added (Daima)
-  
-* **Toe delivery tab:** 
-  * tooltips added (Daima)  
 
  * **Comparable office:** 
   * list/map/form added (Otgoo)
