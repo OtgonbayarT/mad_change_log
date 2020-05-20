@@ -9,6 +9,7 @@
 ### Bug Fixes
   * (61, 60) fixed Inspection form - show required message on Drop down selection when focus out   (Daima)
   * (63) checked and fixed date format error   (Daima)
+  * (17) checked and fixed all sort issue   (Daima)
   
 <a name="1.0.133"></a>
 # [1.0.133](https://demo.interval-soft.com/) (2020-05-18)
