@@ -1,3 +1,15 @@
+<a name="1.0.134"></a>
+# [1.0.134](https://demo.interval-soft.com/) (2020-05-20)
+
+### Features
+
+* **General:** 
+  * added the Page tooltip on the forms (except: LTs form)
+  
+### Bug Fixes
+  * (61, 60) fixed Inspection form - show required message on Drop down selection when focus out   (Daima)
+  * (63) checked and fixed date format error   (Daima)
+  
 <a name="1.0.133"></a>
 # [1.0.133](https://demo.interval-soft.com/) (2020-05-18)
 
@@ -5,7 +17,7 @@
 
 * **General:** 
   * comparable retail early verison added (Otgoo)
-  *close info window when clicking on map [Building, Apartment, Landmark](Daima)
+  * close info window when clicking on map [Building, Apartment, Landmark] (Daima)
   
   
 * **Add TP dialog:** 
