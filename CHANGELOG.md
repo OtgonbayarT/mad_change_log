@@ -1,3 +1,15 @@
+<a name="1.0.135"></a>
+# [1.0.135](https://demo.interval-soft.com/) (2020-05-21)
+
+### Features
+
+* **General:** 
+  * Office inspection added (Otgoo)
+  * ToE/Asset-Class office related changes implemented (Otgoo)
+
+* **LT:** 
+  * Measurement Standard categorized by asset_class (Otgoo)
+
 <a name="1.0.134"></a>
 # [1.0.134](https://demo.interval-soft.com/) (2020-05-20)
 
