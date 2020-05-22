@@ -1,3 +1,17 @@
+<a name="1.0.136"></a>
+# [1.0.136](https://demo.interval-soft.com/) (2020-05-22)
+
+### Features
+
+* **General:** 
+  * Label Retails changed into Retail (Otgoo)
+  
+### Bug Fixes
+
+  * ToE/Asset-Class dropdown standard measurements filter by asset-class-type not working fixed   (Otgoo)
+  * ToE/Dashboard/Inspection map marker not showing fixed   (Otgoo)
+
+
 <a name="1.0.135"></a>
 # [1.0.135](https://demo.interval-soft.com/) (2020-05-21)
 
