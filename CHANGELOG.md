@@ -1,3 +1,16 @@
+<a name="1.0.137"></a>
+# [1.0.137](https://demo.interval-soft.com/) (2020-05-25)
+
+### Features
+
+* **General:** 
+  * ToE conflict q24 mitigation strategy text changed (Otgoo)
+  * ToE disclosure description changed (Otgoo)
+  
+* **Valuation:** 
+  * valuations 1st tab keyplaces added (Otgoo)
+
+
 <a name="1.0.136"></a>
 # [1.0.136](https://demo.interval-soft.com/) (2020-05-22)
 
