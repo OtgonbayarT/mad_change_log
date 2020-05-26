@@ -9,7 +9,9 @@
 * **General:** 
   * add middleware for checking authenticated user request (now we can know the user of any request. if the request has no user, server deny the response)  (Daima)
   
-  
+
+### Bug Fixes
+
 * **Tooltip:** 
   * Tooltip bug (2.40, 7.1, 6.1, 2.13-2.16 ) (Daima)
 
