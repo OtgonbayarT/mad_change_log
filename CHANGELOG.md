@@ -1,3 +1,18 @@
+<a name="1.0.138"></a>
+# [1.0.138](https://demo.interval-soft.com/) (2020-05-26)
+
+### Features
+
+* **Assignment:** 
+  * showed username who deleted the row on the trash system (Daima)
+   
+* **General:** 
+  * add middleware for checking authenticated user request (now we can know the user of any request. if the request has no user, server deny the response)  (Daima)
+  
+  
+* **Tooltip:** 
+  * Tooltip bug (2.40, 7.1, 6.1, 2.13-2.16 ) (Daima)
+
 <a name="1.0.137"></a>
 # [1.0.137](https://demo.interval-soft.com/) (2020-05-25)
 
