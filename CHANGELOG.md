@@ -5,6 +5,9 @@
 
 * **Assignment:** 
   * showed username who deleted the row on the trash system (Daima)
+
+* **Notification:** 
+  * developed all notification of Assignment (Daima)  
    
 * **General:** 
   * add middleware for checking authenticated user request (now we can know the user of any request. if the request has no user, server deny the response)  (Daima)
