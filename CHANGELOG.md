@@ -1,3 +1,26 @@
+<a name="1.0.139"></a>
+# [1.0.139](https://demo.interval-soft.com/) (2020-05-27)
+
+### Features
+
+* **Notification:** 
+  * developed all notification of Initial tab[Assignment, ToE] (Daima)  
+   
+* **General:** 
+  * add middleware for checking authenticated user request (now we can know the user of any request. if the request has no user, server deny the response)  (Daima)
+  
+### Bug  
+  * (66) added date on Apartment - map view (modal) (Daima)
+  * (68) changed date format of Audit trash row (Daima)
+* **Sort issue:** 
+  * Assignment list	[Assignment ID]	- Not sorting alphabetically
+  * Appendix list	[#]	- Not sorting at all
+  * Buildings list	[State of repair]	- This should not order alphabetically
+  * Apartments list	[Building ID]	- Not sorting alphabetically
+* **Tooltip:** 
+  * Add/edit office - map locate tooltip change "apartment" to "office"
+  * Add/edit assignment - Can you remove the tooltips which are not on the sheet
+
 <a name="1.0.138"></a>
 # [1.0.138](https://demo.interval-soft.com/) (2020-05-26)
 
