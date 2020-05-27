@@ -5,6 +5,7 @@
 
 * **Notification:** 
   * developed all notification of Initial tab[Assignment, ToE] (Daima)  
+  * developed to show a notification on the snackbar when receiving a new one (Daima)
   
 ### Bug  
   * (66) added date on Apartment - map view (modal) (Daima)
