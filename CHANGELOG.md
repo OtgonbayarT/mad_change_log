@@ -5,9 +5,6 @@
 
 * **Notification:** 
   * developed all notification of Initial tab[Assignment, ToE] (Daima)  
-   
-* **General:** 
-  * add middleware for checking authenticated user request (now we can know the user of any request. if the request has no user, server deny the response)  (Daima)
   
 ### Bug  
   * (66) added date on Apartment - map view (modal) (Daima)
