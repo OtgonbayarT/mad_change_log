@@ -1,3 +1,12 @@
+<a name="1.0.140"></a>
+# [1.0.140](https://demo.interval-soft.com/) (2020-05-28)
+
+### Features
+
+* **LT:** 
+  * trash/admin trash added with deleted by  (Otgoo)  
+  * LT forms title tooltip added (Otgoo)
+
 <a name="1.0.139"></a>
 # [1.0.139](https://demo.interval-soft.com/) (2020-05-27)
 
