@@ -4,7 +4,7 @@
 ### Features
    * implemented tooltips on Conflict of Interest tab [finished all tooltip tasks] (Daima)  
    * ignore article of Name when sorting by name column on the Landmark list  (Daima)  
-   * XML file - field tooltips	Is it possible to show/hide titles/headings easily? - yes if title is no lenght on the xml, Title is not showing on tooltip
+   * (74) XML file - field tooltips	Is it possible to show/hide titles/headings easily? - yes if title is no lenght on the xml, Title is not showing on tooltip
    
 * **LT:** 
   * trash/admin trash added with deleted by  (Otgoo)  
@@ -13,7 +13,7 @@
 ### Bug  
   * added text "You have no notifications yet." on Notification list (Daima)
   * (68) added user name on Audit trash row (Daima)
-  * Apartment - map view (focus on/off error)	When you zoom in on the map, click on one apartment and then another, the pop-up 
+  * (69) Apartment - map view (focus on/off error)	When you zoom in on the map, click on one apartment and then another, the pop-up 
 for the first apartment doesn't close and then "focus off" doesn't work
 
 <a name="1.0.139"></a>
@@ -36,7 +36,7 @@ for the first apartment doesn't close and then "focus off" doesn't work
   * Apartments list	[Building ID]	- Not sorting alphabetically
 * **Tooltip:** 
   * Add/edit office - map locate tooltip change "apartment" to "office"
-  * Add/edit assignment - Can you remove the tooltips which are not on the sheet
+  * (73) Add/edit assignment - Can you remove the tooltips which are not on the sheet
 
 <a name="1.0.138"></a>
 # [1.0.138](https://demo.interval-soft.com/) (2020-05-26)
