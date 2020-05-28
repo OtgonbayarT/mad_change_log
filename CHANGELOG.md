@@ -2,8 +2,6 @@
 # [1.0.140](https://demo.interval-soft.com/) (2020-05-28)
 
 ### Features
-
-### Features
    * implemented tooltips on Conflict of Interest tab [finished all tooltip tasks] (Daima)  
    * ignore article of Name when sorting by name column on the Landmark list  (Daima)  
    * XML file - field tooltips	Is it possible to show/hide titles/headings easily? - yes if title is no lenght on the xml, Title is not showing on tooltip
