@@ -3,9 +3,20 @@
 
 ### Features
 
+### Features
+   * implemented tooltips on Conflict of Interest tab [finished all tooltip task] (Daima)  
+   * ignore article of Name when sorting by name column on the Landmark list  (Daima)  
+    * XML file - field tooltips	Is it possible to show/hide titles/headings easily? - yes if title is no lenght on the xml, Title is not showing on tooltip
+   
 * **LT:** 
   * trash/admin trash added with deleted by  (Otgoo)  
   * LT forms title tooltip added (Otgoo)
+  
+### Bug  
+  * added text "You have no notifications yet." on Notification list (Daima)
+  * (68) added user name on Audit trash row (Daima)
+  * Apartment - map view (focus on/off error)	When you zoom in on the map, click on one apartment and then another, the pop-up 
+for the first apartment doesn't close and then "focus off" doesn't work
 
 <a name="1.0.139"></a>
 # [1.0.139](https://demo.interval-soft.com/) (2020-05-27)
@@ -15,6 +26,7 @@
 * **Notification:** 
   * developed all notification of Initial tab[Assignment, ToE] (Daima)  
   * developed to show a notification on the snackbar when receiving a new one (Daima)
+ 
   
 ### Bug  
   * (66) added date on Apartment - map view (modal) (Daima)
