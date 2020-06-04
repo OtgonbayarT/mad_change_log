@@ -9,6 +9,10 @@
 * **LT:** 
   * all linked tables user trash/admin trash checked and added it was incomplete mostly (Otgoo)
   * LT forms title tooltip splitted by NEW/EDIT (Otgoo)
+### Bug  
+  * (66, 67) changed modal - map view (modal) - Aparment and Office(Daima)
+  * (76) fixed - "ID" should be static and not clickable (Daima)  
+  * (91) removed - "alert" on notification (Daima)  
 
 <a name="1.0.140"></a>
 # [1.0.140](https://demo.interval-soft.com/) (2020-05-28)
