@@ -13,6 +13,8 @@
   * (66, 67) changed modal - map view (modal) - Aparment and Office(Daima)
   * (76) fixed - "ID" should be static and not clickable (Daima)  
   * (91) removed - "alert" on notification (Daima)  
+  * (81) add email required warning (Daima)  
+  * notifications tested and fixed (Daima)  
 
 <a name="1.0.140"></a>
 # [1.0.140](https://demo.interval-soft.com/) (2020-05-28)
