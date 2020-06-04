@@ -1,3 +1,15 @@
+<a name="1.0.141"></a>
+# [1.0.141](https://demo.interval-soft.com/) (2020-06-04)
+
+### Features
+
+* **GENERAL:** 
+  * deleted by user_id integration added on all linked tables back-end (Otgoo)
+   
+* **LT:** 
+  * all linked tables user trash/admin trash checked and added it was incomplete mostly (Otgoo)
+  * LT forms title tooltip splitted by NEW/EDIT (Otgoo)
+
 <a name="1.0.140"></a>
 # [1.0.140](https://demo.interval-soft.com/) (2020-05-28)
 
