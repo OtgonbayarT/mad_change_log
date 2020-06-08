@@ -1,3 +1,21 @@
+<a name="1.0.142"></a>
+# [1.0.142](https://demo.interval-soft.com/) (2020-06-08)
+
+### Features
+
+* **Notification:** 
+  * checked all of notifications with Tamir  [changed some text of them and fixed small bugs] (Daima)
+   
+* **Page Tooltip:** 
+  * (77) implemented all page tooltip for edit mode [Except LTs] (Daima)
+
+* **Trash system:**   
+ * added on comparables [apartment, office] (Daima)
+ 
+### Bug  
+  * (64) fixed issues that Only the items in the map frame should be listed underneath (Daima)
+  * (78) add page tooltip on ToE dashboard
+  
 <a name="1.0.141"></a>
 # [1.0.141](https://demo.interval-soft.com/) (2020-06-04)
 
