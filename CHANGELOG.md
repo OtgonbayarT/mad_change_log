@@ -3,6 +3,9 @@
 
 ### Features
 
+* **GENERAL:** 
+  * market research, training documents, appendices pdf file become mandatory (Otgoo)
+
 * **Notification:** 
   * checked all of notifications with Tamir  [changed some text of them and fixed small bugs] (Daima)
    
@@ -15,6 +18,9 @@
 ### Bug  
   * (64) fixed issues that Only the items in the map frame should be listed underneath (Daima)
   * (78) add page tooltip on ToE dashboard
+  
+  * **TOE:** 
+  * payment date cannot recognize on safari fixed (Otgoo)
   
 <a name="1.0.141"></a>
 # [1.0.141](https://demo.interval-soft.com/) (2020-06-04)
