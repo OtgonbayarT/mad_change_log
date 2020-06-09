@@ -19,7 +19,7 @@
   * (64) fixed issues that Only the items in the map frame should be listed underneath (Daima)
   * (78) add page tooltip on ToE dashboard
   
- * **TOE:** 
+* **TOE:** 
   * payment date cannot recognize on safari fixed (Otgoo)
   
 <a name="1.0.141"></a>
