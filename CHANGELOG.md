@@ -8,7 +8,7 @@
   * added on other list [agency, toe, market research, appendix, appendice category, training documents, building, landmark, currency, city and client] (Daima)
   
 ### Bug  
-  * fixed bugs when deleting from admin trash [Assignment list, ToE lsit] 
+  * fixed bugs when deleting item from admin trash [Assignment list, ToE lsit] 
   
 <a name="1.0.142"></a>
 # [1.0.142](https://demo.interval-soft.com/) (2020-06-08)
