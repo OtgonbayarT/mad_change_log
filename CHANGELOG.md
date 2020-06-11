@@ -9,8 +9,8 @@
 ### Bug  
   * fixed bugs when deleting from admin trash [Assignment list, ToE lsit] 
   
-<a name="1.0.142"></a>
-# [1.0.142](https://demo.interval-soft.com/) (2020-06-08)
+<a name="1.0.143"></a>
+# [1.0.143](https://demo.interval-soft.com/) (2020-06-10)
 
 ### Features
 
