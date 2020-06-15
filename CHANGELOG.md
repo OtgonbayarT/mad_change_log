@@ -1,3 +1,13 @@
+<a name="1.0.144"></a>
+# [1.0.144](https://demo.interval-soft.com/) (2020-06-15)
+
+### Features
+
+* **Trash system:**   
+  * added on User list and Country list (Daima)
+  
+### Bug  
+  * fixed map issues Gregory test  
 
 <a name="1.0.143"></a>
 # [1.0.143](https://demo.interval-soft.com/) (2020-06-10)
