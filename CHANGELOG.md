@@ -1,3 +1,11 @@
+<a name="1.0.145"></a>
+# [1.0.145](https://demo.interval-soft.com/) (2020-06-16)
+  
+### Bug  
+  * fixed trash bugs  
+  * added trash condition on delete buttons [appendix category, Country, City and Assingment ]
+
+  
 <a name="1.0.144"></a>
 # [1.0.144](https://demo.interval-soft.com/) (2020-06-15)
 
