@@ -1,5 +1,5 @@
-<a name="1.0.145"></a>
-# [1.0.145](https://demo.interval-soft.com/) (2020-06-16)
+<a name="1.0.146"></a>
+# [1.0.146](https://demo.interval-soft.com/) (2020-06-17)
   
 ### Features
 
