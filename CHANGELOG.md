@@ -1,6 +1,16 @@
 <a name="1.0.145"></a>
 # [1.0.145](https://demo.interval-soft.com/) (2020-06-16)
   
+### Features
+
+* **Map Cluster:**   
+  * implemented on Building, Landmark, Office and Apartment 
+
+  
+  
+<a name="1.0.145"></a>
+# [1.0.145](https://demo.interval-soft.com/) (2020-06-16)
+  
 ### Bug  
   * fixed trash bugs  
   * added trash condition on delete buttons [appendix category, Country, City and Assingment ]
