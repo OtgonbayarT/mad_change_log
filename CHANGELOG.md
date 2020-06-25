@@ -4,7 +4,7 @@
 ### Features
 * **My tasks:**   
   * My tasks menu added (Otgoo)
-  * My tasks part1 added for further questions (Otgoo)
+  * My tasks part1 added for further elaboration (Otgoo)
 
 ### Bug  
   * Issue List - June 23 #86 (Boloroo)
