@@ -12,6 +12,7 @@
   * Issue List - June 23 #103 (Boloroo)
   * Issue List - June 23 #109 (Boloroo)
   * Issue List - June 23 #95 (Daimaa)
+  * Issue List - June 23 #96 (Daimaa)
   * Issue List - June 23 #98 (Daimaa)
   * Issue List - June 23 #99 (Daimaa)
   * Issue List - June 23 #100 (Daimaa)
