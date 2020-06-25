@@ -1,3 +1,16 @@
+<a name="1.0.149"></a>
+# [1.0.149](https://demo.interval-soft.com/) (2020-06-25)
+
+### Features
+* **My tasks:**   
+  * My tasks menu added (Otgoo)
+  * My tasks part1 added for further questions (Otgoo)
+
+### Bug  
+  * Issue List - June 23 #86 (Boloroo)
+  * Issue List - June 23 #103 (Boloroo)
+  * Issue List - June 23 #109 (Boloroo)
+
 <a name="1.0.148"></a>
 # [1.0.148](https://demo.interval-soft.com/) (2020-06-24)
   
