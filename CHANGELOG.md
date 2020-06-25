@@ -1,3 +1,19 @@
+<a name="1.0.148"></a>
+# [1.0.148](https://demo.interval-soft.com/) (2020-06-24)
+  
+### Features
+
+* **Toe Form:**   
+  * added the notification icon
+  * implemented the top buttons
+  * WIP: upload singed doc component
+  * WIP: upload singed doc notify
+  
+  ### Bug  
+  * W3W bugs fixed all on FOrms
+  * delete TP to hard delete TP (checked all linked table of TP)
+
+  
 <a name="1.0.146"></a>
 # [1.0.146](https://demo.interval-soft.com/) (2020-06-17)
   
