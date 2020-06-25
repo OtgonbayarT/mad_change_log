@@ -10,6 +10,13 @@
   * Issue List - June 23 #86 (Boloroo)
   * Issue List - June 23 #103 (Boloroo)
   * Issue List - June 23 #109 (Boloroo)
+  * Issue List - June 23 #95 (Daimaa)
+  * Issue List - June 23 #98 (Daimaa)
+  * Issue List - June 23 #99 (Daimaa)
+  * Issue List - June 23 #100 (Daimaa)
+  * Issue List - June 23 #102 (Daimaa)
+  * Issue List - June 23 #110 (Daimaa)
+  * Issue List - June 23 #120 (Daimaa)
 
 <a name="1.0.148"></a>
 # [1.0.148](https://demo.interval-soft.com/) (2020-06-24)
