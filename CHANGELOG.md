@@ -12,6 +12,13 @@
   ### Bug  
   * W3W bugs fixed all on FOrms
   * delete TP to hard delete TP (checked all linked table of TP)
+  
+<a name="1.0.147"></a>
+# [1.0.147](https://demo.interval-soft.com/) (2020-06-22)
+  
+  ### Bug  
+  * fixed map bugs 
+  * fixed some service bugs
 
   
 <a name="1.0.146"></a>
