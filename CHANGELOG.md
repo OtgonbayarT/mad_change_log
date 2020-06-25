@@ -7,6 +7,7 @@
   * My tasks part1 added for further elaboration (Otgoo)
 
 ### Bug  
+  * Issue List - June 23 #85 (Boloroo)
   * Issue List - June 23 #86 (Boloroo)
   * Issue List - June 23 #103 (Boloroo)
   * Issue List - June 23 #109 (Boloroo)
