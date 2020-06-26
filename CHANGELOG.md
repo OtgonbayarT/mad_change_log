@@ -1,7 +1,7 @@
 <a name="1.0.150"></a>
 # [1.0.150](https://demo.interval-soft.com/) (2020-06-26)
    
-### Bug  
+### Bug Fixes
   * Issue List - June 23 #112 (Boloroo)
   * Issue List - June 23 #113 (Boloroo)
   * Issue List - June 23 #114 (Boloroo)
@@ -18,7 +18,7 @@
    * checked conditions to appear 7th tab and to switch to the Edit mode of other tabs (Daima)
    * added Signed Toe table list on 7th tab (Daima)
    
-### Bug  
+### Bug Fixes 
   * Issue List - June 23 #85 (Boloroo)
   * Issue List - June 23 #86 (Boloroo)
   * Issue List - June 23 #103 (Boloroo)
@@ -43,14 +43,14 @@
   * WIP: upload singed doc component
   * WIP: upload singed doc notify
   
-  ### Bug  
+### Bug Fixes
   * W3W bugs fixed all on FOrms
   * delete TP to hard delete TP (checked all linked table of TP)
   
 <a name="1.0.147"></a>
 # [1.0.147](https://demo.interval-soft.com/) (2020-06-22)
   
-  ### Bug  
+### Bug Fixes
   * fixed map bugs 
   * fixed some service bugs
 
@@ -68,7 +68,7 @@
 <a name="1.0.145"></a>
 # [1.0.145](https://demo.interval-soft.com/) (2020-06-16)
   
-### Bug  
+### Bug Fixes
   * fixed trash bugs  
   * added trash condition on delete buttons [appendix category, Country, City and Assingment ]
 
@@ -81,7 +81,7 @@
 * **Trash system:**   
   * added on User list and Country list (Daima)
   
-### Bug  
+### Bug Fixes
   * fixed map issues Gregory test  
 
 <a name="1.0.143"></a>
@@ -92,7 +92,7 @@
 * **Trash system:**   
   * added on other list [agency, toe, market research, appendix, appendice category, training documents, building, landmark, currency, city and client] (Daima)
   
-### Bug  
+### Bug Fixes
   * fixed bugs when deleting item from admin trash [Assignment list, ToE lsit] 
   
 <a name="1.0.142"></a>
@@ -112,7 +112,7 @@
 * **Trash system:**   
   * added on comparables [apartment, office] (Daima)
  
-### Bug  
+### Bug Fixes
   * (64) fixed issues that Only the items in the map frame should be listed underneath (Daima)
   * (78) add page tooltip on ToE dashboard
   
@@ -130,7 +130,7 @@
 * **LT:** 
   * all linked tables user trash/admin trash checked and added it was incomplete mostly (Otgoo)
   * LT forms title tooltip splitted by NEW/EDIT (Otgoo)
-### Bug  
+### Bug Fixes 
   * (66, 67) changed modal - map view (modal) - Aparment and Office(Daima)
   * (76) fixed - "ID" should be static and not clickable (Daima)  
   * (91) removed - "alert" on notification (Daima)  
@@ -149,7 +149,7 @@
   * trash/admin trash added with deleted by  (Otgoo)  
   * LT forms title tooltip added (Otgoo)
   
-### Bug  
+### Bug Fixes
   * added text "You have no notifications yet." on Notification list (Daima)
   * (68) added user name on Audit trash row (Daima)
   * (69) Apartment - map view (focus on/off error)	When you zoom in on the map, click on one apartment and then another, the pop-up 
@@ -165,7 +165,7 @@ for the first apartment doesn't close and then "focus off" doesn't work
   * developed to show a notification on the snackbar when receiving a new one (Daima)
  
   
-### Bug  
+### Bug Fixes
   * (66) added date on Apartment - map view (modal) (Daima)
   * (68) changed date format of Audit trash row (Daima)
 * **Sort issue:** 
