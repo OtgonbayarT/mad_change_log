@@ -5,10 +5,11 @@
 * **My tasks:**   
   * My tasks menu added (Otgoo)
   * My tasks part1 added for further elaboration (Otgoo)
-* **Toe Forms:**     
-   * changed top buttons and added 2 buttons [revert to Draft, Toe Dashboard](Daima)
+* **Toe Form:**     
+   * changed top buttons and added 2 buttons on the form [revert to Draft, Toe Dashboard](Daima)
    * checked conditions to appear 7th tab and to switch to the Edit mode of other tabs (Daima)
-   * add Signed Toe table list on 7th tab (Daima)
+   * added Signed Toe table list on 7th tab (Daima)
+   
 ### Bug  
   * Issue List - June 23 #85 (Boloroo)
   * Issue List - June 23 #86 (Boloroo)
