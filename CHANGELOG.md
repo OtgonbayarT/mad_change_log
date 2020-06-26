@@ -1,3 +1,11 @@
+<a name="1.0.150"></a>
+# [1.0.150](https://demo.interval-soft.com/) (2020-06-26)
+   
+### Bug  
+  * Issue List - June 23 #112 (Boloroo)
+  * Issue List - June 23 #113 (Boloroo)
+  * Issue List - June 23 #114 (Boloroo)
+
 <a name="1.0.149"></a>
 # [1.0.149](https://demo.interval-soft.com/) (2020-06-25)
 
