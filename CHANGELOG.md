@@ -5,20 +5,23 @@
 * **My tasks:**   
   * My tasks menu added (Otgoo)
   * My tasks part1 added for further elaboration (Otgoo)
-
+* **Toe Forms:**     
+   * changed top buttons and added 2 buttons [revert to Draft, Toe Dashboard](Daima)
+   * checked conditions to appear 7th tab and to switch to the Edit mode of other tabs (Daima)
+   * add Signed Toe table list on 7th tab (Daima)
 ### Bug  
   * Issue List - June 23 #85 (Boloroo)
   * Issue List - June 23 #86 (Boloroo)
   * Issue List - June 23 #103 (Boloroo)
   * Issue List - June 23 #109 (Boloroo)
-  * Issue List - June 23 #95 (Daimaa)
-  * Issue List - June 23 #96 (Daimaa)
-  * Issue List - June 23 #98 (Daimaa)
-  * Issue List - June 23 #99 (Daimaa)
-  * Issue List - June 23 #100 (Daimaa)
-  * Issue List - June 23 #102 (Daimaa)
-  * Issue List - June 23 #110 (Daimaa)
-  * Issue List - June 23 #120 (Daimaa)
+  * Issue List - June 23 #95 (Daima)
+  * Issue List - June 23 #96 (Daima)
+  * Issue List - June 23 #98 (Daima)
+  * Issue List - June 23 #99 (Daima)
+  * Issue List - June 23 #100 (Daima)
+  * Issue List - June 23 #102 (Daima)
+  * Issue List - June 23 #110 (Daima)
+  * Issue List - June 23 #120 (Daima)
 
 <a name="1.0.148"></a>
 # [1.0.148](https://demo.interval-soft.com/) (2020-06-24)
