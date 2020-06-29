@@ -1,5 +1,5 @@
 <a name="1.0.150"></a>
-# [1.0.150](https://demo.interval-soft.com/) (Release Candidate)
+# [1.0.150](https://demo.interval-soft.com/) (2020-06-29)
    
 ### Bug Fixes
   * Issue List - June 23 #112 (Boloroo)
