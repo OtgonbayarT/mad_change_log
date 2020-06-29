@@ -8,6 +8,8 @@
   * Issue List - June 23 #115 (Boloroo)
   * Issue List - June 23 #121 (Boloroo)
   * Issue List - June 23 #123 (Boloroo)
+  * Issue List - June 23 #124 (Boloroo)
+  * Issue List - June 23 #125 (Boloroo)
 
 <a name="1.0.149"></a>
 # [1.0.149](https://demo.interval-soft.com/) (2020-06-25)
