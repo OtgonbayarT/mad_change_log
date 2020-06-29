@@ -13,7 +13,7 @@
   
 ### Features
 * **Toe Form:** 
-  * localization added for top warning, button labels, standard tooltips, tab labels (input required texts not included... too many) (Otgoo)
+  * localization added for top warning, button labels, standard tooltips, tab labels (Otgoo)
 
 <a name="1.0.149"></a>
 # [1.0.149](https://demo.interval-soft.com/) (2020-06-25)
