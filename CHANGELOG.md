@@ -10,6 +10,10 @@
   * Issue List - June 23 #123 (Boloroo)
   * Issue List - June 23 #124 (Boloroo)
   * Issue List - June 23 #125 (Boloroo)
+  
+### Features
+* **Toe Form:** 
+  * localization added for top warning, button labels, standard tooltips, tab labels (input required texts not included... too many) (Otgoo)
 
 <a name="1.0.149"></a>
 # [1.0.149](https://demo.interval-soft.com/) (2020-06-25)
