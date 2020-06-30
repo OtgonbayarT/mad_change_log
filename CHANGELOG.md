@@ -1,3 +1,11 @@
+<a name="1.0.151"></a>
+# [1.0.151](https://demo.interval-soft.com/) (Release Candidate)
+  
+### Features
+* **Assignment:** 
+  * List localization Added (Boloroo)
+  * Form localization Added (Boloroo)
+
 <a name="1.0.150"></a>
 # [1.0.150](https://demo.interval-soft.com/) (2020-06-29)
    
@@ -16,11 +24,11 @@
   * Issue List - June 23 #125 (Daima)
   * Issue List - June 23 #129 (Daima)
   * Issue List - June 23 127 (Daima)
+  * fixed Toe bugs (Daima)
   
 ### Features
 * **Toe Form:** 
   * localization added for top warning, button labels, standard tooltips, tab labels (Otgoo)
-  * fixed Toe bugs (Daima)
 
 <a name="1.0.149"></a>
 # [1.0.149](https://demo.interval-soft.com/) (2020-06-25)
