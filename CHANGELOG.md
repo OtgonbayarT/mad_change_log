@@ -4,10 +4,12 @@
 ### Features
   * **Toe Form:** 
   * fixed bugs and developed some features which we discussed on the meetting  (Daima)
-### Bug Fixes
-* **Assignment:** 
+
+  * **Assignment:** 
   * List localization Added (Boloroo)
   * Form localization Added (Boloroo)
+
+### Bug Fixes
   * fixed notification bugs (Daima)
   * fixed bug when creating Assignment (Daima)
   * fixed bug [project manager and agency fields empty] (Daima)
