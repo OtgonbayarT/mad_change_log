@@ -6,6 +6,8 @@
   * List localization Added (Boloroo)
   * Form localization Added (Boloroo)
 
+### Bug Fixes
+  
 <a name="1.0.150"></a>
 # [1.0.150](https://demo.interval-soft.com/) (2020-06-29)
    
