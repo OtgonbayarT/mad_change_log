@@ -1,12 +1,16 @@
 <a name="1.0.151"></a>
-# [1.0.151](https://demo.interval-soft.com/) (Release Candidate)
+# [1.0.151](https://demo.interval-soft.com/)
   
 ### Features
+  * **Toe Form:** 
+  * fixed bugs and developed some features which we discussed on the meetting  (Daima)
+### Bug Fixes
 * **Assignment:** 
   * List localization Added (Boloroo)
   * Form localization Added (Boloroo)
-
-### Bug Fixes
+  * fixed notification bugs (Daima)
+  * fixed bug when creating Assignment (Daima)
+  * fixed bug [project manager and agency fields empty] (Daima)
   
 <a name="1.0.150"></a>
 # [1.0.150](https://demo.interval-soft.com/) (2020-06-29)
