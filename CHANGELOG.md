@@ -10,10 +10,17 @@
   * Issue List - June 23 #123 (Boloroo)
   * Issue List - June 23 #124 (Boloroo)
   * Issue List - June 23 #125 (Boloroo)
+  * Issue List - June 23 #116 (Daima)
+  * Issue List - June 23 #117 (Daima)
+  * Issue List - June 23 #106 (Daima)
+  * Issue List - June 23 #125 (Daima)
+  * Issue List - June 23 #129 (Daima)
+  * Issue List - June 23 127 (Daima)
   
 ### Features
 * **Toe Form:** 
   * localization added for top warning, button labels, standard tooltips, tab labels (Otgoo)
+  * fixed Toe bugs (Daima)
 
 <a name="1.0.149"></a>
 # [1.0.149](https://demo.interval-soft.com/) (2020-06-25)
