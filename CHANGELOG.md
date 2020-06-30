@@ -2,10 +2,10 @@
 # [1.0.151](https://demo.interval-soft.com/)
   
 ### Features
-  * **Toe Form:** 
+* **Toe Form:** 
   * fixed bugs and developed some features which we discussed on the meetting  (Daima)
 
-  * **Assignment:** 
+* **Assignment:** 
   * List localization Added (Boloroo)
   * Form localization Added (Boloroo)
 
