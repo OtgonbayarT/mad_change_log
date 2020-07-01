@@ -1,3 +1,11 @@
+<a name="1.0.152"></a>
+# [1.0.152](https://demo.interval-soft.com/) (2020-07-01) (Release Candidate)
+  
+### Features
+* **Notification:** 
+  * developed notification deletion functionality  (Daima)
+
+
 <a name="1.0.151"></a>
 # [1.0.151](https://demo.interval-soft.com/) (2020-06-30)
   
