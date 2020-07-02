@@ -1,7 +1,12 @@
 <a name="1.0.152"></a>
-# [1.0.152](https://demo.interval-soft.com/) (2020-07-02) (Release Candidate)
+# [1.0.152](https://demo.interval-soft.com/) (Release Candidate)
   
 ### Features
+* **General:** 
+  * My tasks page added  (Otgoo)
+  * Notification action added  (Boloroo)
+  * localization added  (Boloroo)
+  
 * **Notification:** 
   * developed notification deletion functionality  (Daima)
 
