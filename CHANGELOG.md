@@ -5,10 +5,56 @@
 * **General:** 
   * My tasks page added  (Otgoo)
   * Notification action added  (Boloroo)
-  * localization added  (Boloroo)
   
 * **Notification:** 
   * developed notification deletion functionality  (Daima)
+
+* **Audit:** 
+  * List localization Added (Boloroo)
+  * Form localization Added (Boloroo)
+  
+* **Toe:** 
+  * List localization Added (Boloroo)
+  
+* **Comparables:** 
+  * Apartment List localization Added (Boloroo)
+  * Office List localization Added (Boloroo)
+  
+* **Agency:** 
+  * List localization Added (Boloroo)
+  
+* **User:** 
+  * List localization Added (Boloroo)
+  
+* **Client:** 
+  * List localization Added (Boloroo)
+  
+* **Country:** 
+  * List localization Added (Boloroo)
+  
+* **City:** 
+  * List localization Added (Boloroo)
+  
+* **Currency:** 
+  * List localization Added (Boloroo)
+  
+* **Landmark:** 
+  * List localization Added (Boloroo)
+  
+* **Building:** 
+  * List localization Added (Boloroo)
+  
+* **Market Research:** 
+  * List localization Added (Boloroo)
+  
+* **Appendix:** 
+  * List localization Added (Boloroo)
+  
+* **Appendix Category:** 
+  * List localization Added (Boloroo)
+
+* **Training Document:** 
+  * List localization Added (Boloroo)
 
 
 <a name="1.0.151"></a>
