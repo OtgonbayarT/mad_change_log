@@ -1,5 +1,5 @@
 <a name="1.0.152"></a>
-# [1.0.152](https://demo.interval-soft.com/) (Release Candidate)
+# [1.0.152](https://demo.interval-soft.com/) (2020-07-02)
   
 ### Features
 * **General:** 
