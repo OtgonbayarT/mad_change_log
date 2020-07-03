@@ -6,6 +6,7 @@
   * developed View mode of TP dialog [#156] (Daima)
   ### Bug Fixes  
   * Issue List - July 2 #152 (Daima)
+  * Issue List - July 2 #155 [added unfitted radio button] (Daima)
   
 <a name="1.0.152"></a>
 # [1.0.152](https://demo.interval-soft.com/) (2020-07-02)
