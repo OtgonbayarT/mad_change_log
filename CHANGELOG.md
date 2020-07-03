@@ -68,6 +68,11 @@
 * **Training Document:** 
   * List localization Added (Boloroo)
   * Notification action added  (Boloroo)
+  
+### Bug Fixes  
+  * Issue List - July 2 #155 (Daima)
+  * Issue List - July 2 #153 (Daima)
+  * Issue List - July 2 #145 (Daima)
 
 
 <a name="1.0.151"></a>
