@@ -1,10 +1,17 @@
 <a name="1.0.153"></a>
-# [1.0.153](https://demo.interval-soft.com/) (2020-07-03) (Release candidate)
+# [1.0.153](https://demo.interval-soft.com/) (2020-07-03)
   
 ### Features
 * **Toe Form:** 
   * developed View mode of TP dialog [#156] (Daima)
-  ### Bug Fixes  
+  
+* **General:** 
+  * Newly added columns become sortable "Consideration not included" (Boloroo)
+  * Information tooltip's created_by, last_updated_by become functional (Boloroo)
+  * localization implemented on Linked tables all buttons, form warning messages (Otgoo)
+  * localization implemented Fully on Users "list/form/sub-form/warning/error/..." (Otgoo)
+
+### Bug Fixes  
   * Issue List - July 2 #152 (Daima)
   * Issue List - July 2 #148 (Daima)
   * Issue List - July 2 #155 [added unfitted radio button] (Daima)
