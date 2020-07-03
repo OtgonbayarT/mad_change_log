@@ -1,3 +1,10 @@
+<a name="1.0.153"></a>
+# [1.0.153](https://demo.interval-soft.com/) (2020-07-03) (Release candidate)
+  
+### Features
+* **Toe Form:** 
+  * developed View mode of TP dialog  (Daima)
+  
 <a name="1.0.152"></a>
 # [1.0.152](https://demo.interval-soft.com/) (2020-07-02)
   
