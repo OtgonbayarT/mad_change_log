@@ -12,7 +12,6 @@
   * localization implemented Fully on Users "list/form/sub-form/warning/error/..." (Otgoo)
 
 ### Bug Fixes  
-  * Issue List - July 2 #86 (Otgoo)
   * Issue List - July 2 #152 (Daima)
   * Issue List - July 2 #148 (Daima)
   * Issue List - July 2 #155 [added unfitted radio button] (Daima)
