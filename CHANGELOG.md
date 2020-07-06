@@ -2,6 +2,7 @@
 # [1.0.154](https://demo.interval-soft.com/) (Release Candidate)
 
 ### Features
+  * ToE localization from MAD applied (Otgoo)
   * Issue List - July 2 #86 (Otgoo)
   * Issue List - July 2 #106 (Otgoo)
   * Issue List - July 2 #108 (Otgoo)
