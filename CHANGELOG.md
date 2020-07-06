@@ -1,5 +1,5 @@
 <a name="1.0.154"></a>
-# [1.0.154](https://demo.interval-soft.com/) (Release Candidate)
+# [1.0.154](https://demo.interval-soft.com/) (2020-07-06)
 
 ### Features
   * 1st dummy chart for ToE statuses added on main-dashboard (Otgoo)
