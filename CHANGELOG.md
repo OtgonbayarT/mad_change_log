@@ -12,6 +12,7 @@
 ### Bug
   * Issue List - July 2 #115 (Boloroo)
   * Issue List - July 2 #136 (Otgoo)
+  * Issue List - July 2 #141 (fix try #1) (Otgoo)
 
 <a name="1.0.153"></a>
 # [1.0.153](https://demo.interval-soft.com/) (2020-07-03)
