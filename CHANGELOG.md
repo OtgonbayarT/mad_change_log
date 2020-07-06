@@ -5,8 +5,10 @@
   * Issue List - July 2 #86 (Otgoo)
   * Issue List - July 2 #106 (Otgoo)
   * Issue List - July 2 #108 (Otgoo)
-  * Issue List - July 2 #115 (Boloroo)
   * Issue List - July 2 #117 (Boloroo)
+### Bug
+  * Issue List - July 2 #115 (Boloroo)
+  * Issue List - July 2 #136 (Otgoo)
 
 <a name="1.0.153"></a>
 # [1.0.153](https://demo.interval-soft.com/) (2020-07-03)
