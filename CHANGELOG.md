@@ -7,6 +7,8 @@
   * Issue List - July 2 #106 (Otgoo)
   * Issue List - July 2 #108 (Otgoo)
   * Issue List - July 2 #117 (Boloroo)
+  * Issue List - July 2 #125 (Boloroo)
+
 ### Bug
   * Issue List - July 2 #115 (Boloroo)
   * Issue List - July 2 #136 (Otgoo)
