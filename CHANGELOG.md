@@ -2,6 +2,7 @@
 # [1.0.155](https://demo.interval-soft.com/) (Release Candidate)
 
 ### Bug
+  * Issue List - July 2 #132 (Boloroo)
   * Issue List - July 2 #138 (Boloroo)
   * Issue List - July 2 #139 (Boloroo)
 
