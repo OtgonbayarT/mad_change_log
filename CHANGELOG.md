@@ -1,3 +1,9 @@
+<a name="1.0.155"></a>
+# [1.0.155](https://demo.interval-soft.com/) (Release Candidate)
+
+### Bug
+  * Issue List - July 2 #139 (Boloroo)
+
 <a name="1.0.154"></a>
 # [1.0.154](https://demo.interval-soft.com/) (2020-07-06)
 
