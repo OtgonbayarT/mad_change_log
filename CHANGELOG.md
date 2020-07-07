@@ -1,6 +1,9 @@
 <a name="1.0.155"></a>
 # [1.0.155](https://demo.interval-soft.com/) (Release Candidate)
 
+### Features
+  * chart changed from pie to donut and tooltip labels changed (Otgoo)
+  
 ### Bug
   * Issue List - July 2 #132 (Boloroo)
   * Issue List - July 2 #138 (Boloroo)
