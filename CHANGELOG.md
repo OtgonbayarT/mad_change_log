@@ -8,6 +8,7 @@
   * Issue List - July 2 #132 (Boloroo)
   * Issue List - July 2 #138 (Boloroo)
   * Issue List - July 2 #139 (Boloroo)
+  * My-tasks order by assignment manager fixed (Otgoo)
 
 <a name="1.0.154"></a>
 # [1.0.154](https://demo.interval-soft.com/) (2020-07-06)
