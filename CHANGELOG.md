@@ -6,6 +6,7 @@
   * Issue List - July 2 #131 (Boloroo)
   * Issue List - July 2 #156 (Unknown)
   * Issue List - July 2 #154 (Otgoo)(will be fixed by ToE ID mandatory regardless of draft)
+  * Issue List - July 2 #153 (checked by Otgoo works fine, or fixed by Unknown)
   * main-dashboard title changed into "Ongoing ToE Statuses" (Otgoo)
   * ToE Report Typo change (Otgoo)
 
