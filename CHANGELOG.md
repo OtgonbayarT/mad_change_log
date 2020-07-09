@@ -11,6 +11,7 @@
   
 ### Bug
   * Issue List - July 2 #153 (checked by Otgoo works fine, or fixed by Unknown)
+  * Issue List - July 2 #151 (Otgoo)
 
 <a name="1.0.155"></a>
 # [1.0.155](https://demo.interval-soft.com/) (2020-07-07)
