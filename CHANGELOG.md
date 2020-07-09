@@ -4,6 +4,7 @@
 ### Features
   * Issue List - July 2 #130 (Boloroo)
   * Issue List - July 2 #131 (Boloroo)
+  * Issue List - July 2 #156 (Unknown)
   * main-dashboard title changed into "Ongoing ToE Statuses" (Otgoo)
   * ToE Report Typo change (Otgoo)
 
