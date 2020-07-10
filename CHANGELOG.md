@@ -2,8 +2,6 @@
 # [1.0.156](https://demo.interval-soft.com/) (2020-07-09)
 
 ### Features
-  * Issue List - July 2 #130 (Boloroo)
-  * Issue List - July 2 #131 (Boloroo)
   * Issue List - July 2 #156 (Unknown)
   * Issue List - July 2 #154 (Otgoo)(will be fixed by ToE ID mandatory regardless of draft)
   * main-dashboard title changed into "Ongoing ToE Statuses" (Otgoo)
