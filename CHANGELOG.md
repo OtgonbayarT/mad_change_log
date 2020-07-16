@@ -10,7 +10,7 @@
 # [1.0.157](https://demo.interval-soft.com/) (2020-07-16)
 
 ### Features
-  * sent to user by per row item early draft version added (Otgoo)
+  * developer preview added (WIP) (Otgoo)
   * Report Payment terms and Signatures.2 texts changed (Otgoo)
 
 <a name="1.0.156"></a>
