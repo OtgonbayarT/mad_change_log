@@ -4,6 +4,7 @@
 ### Features
   * Issue List - July 2 #130 (Boloroo)
   * Issue List - July 2 #131 (Boloroo)
+  * Report Payment terms and Signatures.2 texts changed (Otgoo)
 
 <a name="1.0.156"></a>
 # [1.0.156](https://demo.interval-soft.com/) (2020-07-09)
