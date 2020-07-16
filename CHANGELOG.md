@@ -1,9 +1,16 @@
-<a name="1.0.157"></a>
-# [1.0.157](https://demo.interval-soft.com/) (Release Candidate)
+<a name="1.0.158"></a>
+# [1.0.158](https://demo.interval-soft.com/) (Release Candidate)
 
 ### Features
   * Issue List - July 2 #130 (Boloroo)
   * Issue List - July 2 #131 (Boloroo)
+
+
+<a name="1.0.157"></a>
+# [1.0.157](https://demo.interval-soft.com/) (2020-07-16)
+
+### Features
+  * sent to user by per row item early draft version added (Otgoo)
   * Report Payment terms and Signatures.2 texts changed (Otgoo)
 
 <a name="1.0.156"></a>
