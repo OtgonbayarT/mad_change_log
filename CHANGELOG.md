@@ -1,10 +1,10 @@
 <a name="1.0.158"></a>
-# [1.0.158](https://demo.interval-soft.com/) (Release Candidate)
+# [1.0.158](https://demo.interval-soft.com/) (2020-07-20)
 
 ### Features
   * Issue List - July 2 #130 (Boloroo)
   * Issue List - July 2 #131 (Boloroo)
-
+  * Issue List - July 2 #134 (Boloroo)
 
 <a name="1.0.157"></a>
 # [1.0.157](https://demo.interval-soft.com/) (2020-07-16)
