@@ -1,4 +1,11 @@
 <a name="1.0.158"></a>
+# [1.0.158](https://demo.interval-soft.com/) (Next Release)
+
+### Features
+  * Issue List - July 2 #137 (Boloroo)
+  * toe send to client popup cancel need to uncheck (Otgoo)
+
+<a name="1.0.158"></a>
 # [1.0.158](https://demo.interval-soft.com/) (2020-07-20)
 
 ### Features
