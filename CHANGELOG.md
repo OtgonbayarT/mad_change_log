@@ -5,6 +5,7 @@
   * Issue List - July 2 #130 (Boloroo)
   * Issue List - July 2 #131 (Boloroo)
   * Issue List - July 2 #134 (Boloroo)
+  * toe send to client complete (Otgoo)
 
 <a name="1.0.157"></a>
 # [1.0.157](https://demo.interval-soft.com/) (2020-07-16)
