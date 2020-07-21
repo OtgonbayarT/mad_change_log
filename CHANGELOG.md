@@ -6,6 +6,7 @@
   * Issue List - July 2 #143 (Boloroo)
   * Issue List - July 2 #146 "checked but works fine" (Boloroo)
   * Issue List - July 2 #142 (Boloroo)
+  * Issue List - July 2 #144 "checked but works fine" (Boloroo)
   * toe send to client popup cancel need to uncheck (Otgoo)
 
 <a name="1.0.158"></a>
