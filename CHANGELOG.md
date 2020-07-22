@@ -2,11 +2,13 @@
 # [1.0.160](https://demo.interval-soft.com/) (Release Candidate)
 
 ### Features
-  * Issue List - July 2 #122 (Boloroo)
-  * Issue List - July 2 #129 (Boloroo)
   * 2 donut added on Main dashboard (Otgoo)
   * Admin task basics added (Otgoo)
-  * conditional hide/show upload signed section on toe delivered? (Otgoo)
+  
+### Bug
+  * Issue List - July 2 #122 (Boloroo)
+  * Issue List - July 2 #129 (Boloroo)
+  * Issue List - July 2 #86 (Otgoo)
 
 <a name="1.0.159"></a>
 # [1.0.159](https://demo.interval-soft.com/) (2020-07-21)
