@@ -1,3 +1,10 @@
+<a name="1.0.160"></a>
+# [1.0.160](https://demo.interval-soft.com/) (Release Candidate)
+
+### Features
+  * Issue List - July 2 #122 (Boloroo)
+  * Issue List - July 2 #123 (Boloroo)
+
 <a name="1.0.159"></a>
 # [1.0.159](https://demo.interval-soft.com/) (2020-07-21)
 
