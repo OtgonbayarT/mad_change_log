@@ -1,9 +1,10 @@
 <a name="1.0.160"></a>
-# [1.0.160](https://demo.interval-soft.com/) (Release Candidate)
+# [1.0.160](https://demo.interval-soft.com/) (2020-07-22)
 
 ### Features
   * 2 donut added on Main dashboard (Otgoo)
   * Admin task basics added (Otgoo)
+  * ToE delivered? hide/show signed_uploaded section added (Otgoo)
   
 ### Bug
   * Issue List - July 2 #122 (Boloroo)
