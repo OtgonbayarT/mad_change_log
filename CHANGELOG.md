@@ -1,5 +1,5 @@
 <a name="1.0.161"></a>
-# [1.0.161](https://demo.interval-soft.com/) (2020-07-23) (Release Candidate)
+# [1.0.161](https://demo.interval-soft.com/) (2020-07-23)
 
 ### Features
   * developed new Notifications (Assignment, Interaction, ToE) (Daima)
