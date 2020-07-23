@@ -3,6 +3,7 @@
 
 ### Features
   * developed new Notifications (Assignment, Interaction, ToE) (Daima)
+  * toe permission added (Boloroo)
   
 <a name="1.0.160"></a>
 # [1.0.160](https://demo.interval-soft.com/) (2020-07-22)
