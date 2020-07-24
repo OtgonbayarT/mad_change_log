@@ -1,3 +1,9 @@
+<a name="1.0.162"></a>
+# [1.0.162](https://demo.interval-soft.com/) (2020-07-24)
+
+### Features
+  * developed new TOE Dashboard (WIP: user row and deadline) (Daima)
+  
 <a name="1.0.161"></a>
 # [1.0.161](https://demo.interval-soft.com/) (2020-07-23)
 
