@@ -1,9 +1,10 @@
 <a name="1.0.163"></a>
-# [1.0.163](https://demo.interval-soft.com/) (Release Candidate)
+# [1.0.163](https://demo.interval-soft.com/) (2020-07-27)
 
 ### Features
   * Option for ToE generate as a Draft (Otgoo)
-  * Admin task (Otgoo)
+  * Admin tasks further development added (not complete) (need to discuss) (Otgoo)
+  * localization on Admin Management directory (Boloroo)
   
 <a name="1.0.162"></a>
 # [1.0.162](https://demo.interval-soft.com/) (2020-07-24)
