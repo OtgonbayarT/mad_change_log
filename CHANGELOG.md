@@ -1,3 +1,10 @@
+<a name="1.0.163"></a>
+# [1.0.163](https://demo.interval-soft.com/) (Release Candidate)
+
+### Features
+  * Option for ToE generate as a Draft (Otgoo)
+  * Admin task (Otgoo)
+  
 <a name="1.0.162"></a>
 # [1.0.162](https://demo.interval-soft.com/) (2020-07-24)
 
