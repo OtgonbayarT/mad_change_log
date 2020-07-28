@@ -1,3 +1,12 @@
+<a name="1.0.164"></a>
+# [1.0.164](https://demo.interval-soft.com/) (2020-07-28)
+
+### Features
+  * Main-dashboard additional datatables added with dummy data (Otgoo)
+  
+### Bug
+  * localization error fixed on agencies & toe inspection (Boloroo)
+
 <a name="1.0.163"></a>
 # [1.0.163](https://demo.interval-soft.com/) (2020-07-27)
 
