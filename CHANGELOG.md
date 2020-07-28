@@ -3,9 +3,12 @@
 
 ### Features
   * Main-dashboard additional datatables added with dummy data (Otgoo)
+  * User row of ToE dashboard finished and change some css [text color] (Daima)
   
 ### Bug
   * localization error fixed on agencies & toe inspection (Boloroo)
+  * showed percentage on Signed status, removed from Draft status (Daima)
+  * added status condition to go ToE dashboard (Daima)
 
 <a name="1.0.163"></a>
 # [1.0.163](https://demo.interval-soft.com/) (2020-07-27)
