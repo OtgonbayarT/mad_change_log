@@ -1,3 +1,12 @@
+<a name="1.0.165"></a>
+# [1.0.165](https://demo.interval-soft.com/) (2020-07-29)
+  
+### Bug
+  * Once a country has been added, it shouldn't appear in the droplist when you add another country (may be an issue across system) [#158] (Daima)
+  * fixed user name disappearing on Task info dialog  (Daima)
+  * set default date by ToE completion date on Task info dialog  (Daima)
+
+  
 <a name="1.0.164"></a>
 # [1.0.164](https://demo.interval-soft.com/) (2020-07-28)
 
@@ -8,7 +17,7 @@
 ### Bug
   * localization error fixed on agencies & toe inspection (Boloroo)
   * showed percentage on Signed status, removed from Draft status (Daima)
-  * added status condition to go ToE dashboard (Daima)
+  * added status condition to go ToE dashboard (Daima)  
 
 <a name="1.0.163"></a>
 # [1.0.163](https://demo.interval-soft.com/) (2020-07-27)
