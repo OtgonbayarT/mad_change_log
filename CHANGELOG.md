@@ -1,3 +1,13 @@
+<a name="1.0.166"></a>
+# [1.0.166](https://demo.interval-soft.com/) (2020-07-30)
+  
+### Feature
+  * ToE team member's qualification added on the dropdown list (Otgoo)
+  * Admin tasks split tab's added by PM, LV  (Otgoo)
+
+### Bug
+  * toe report sent tooltip sent_by name, delivery method name added with bold decoration  (Otgoo)
+
 <a name="1.0.165"></a>
 # [1.0.165](https://demo.interval-soft.com/) (2020-07-29)
   
