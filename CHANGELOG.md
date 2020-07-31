@@ -3,7 +3,7 @@
   
 ### Feature
   * tooltips replaced (Otgoo)
-  * toe report delete button will be disabled during generation process (Otgoo)
+  * toe report delete button will be disabled during generation process(will make it individual in a next release) (Otgoo)
 
 ### Bug
   * f5 on Edit Agency fixed  (Otgoo)
