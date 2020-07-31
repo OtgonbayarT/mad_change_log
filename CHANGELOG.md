@@ -2,6 +2,7 @@
 # [1.0.166](https://demo.interval-soft.com/) (2020-07-30)
   
 ### Feature
+  * showed user by filter for each task on task info dialog (Daima)
   * ToE team member's qualification added on the dropdown list (Otgoo)
   * Admin tasks split tab's added by PM, LV  (Otgoo)
 
