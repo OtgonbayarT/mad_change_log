@@ -1,3 +1,13 @@
+<a name="1.0.167"></a>
+# [1.0.167](https://demo.interval-soft.com/) (2020-07-31)
+  
+### Feature
+  * tooltips replaced (Otgoo)
+  * toe report delete button will be disabled during generation process (Otgoo)
+
+### Bug
+  * f5 on Edit Agency fixed  (Otgoo)
+
 <a name="1.0.166"></a>
 # [1.0.166](https://demo.interval-soft.com/) (2020-07-30)
   
