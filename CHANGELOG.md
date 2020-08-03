@@ -1,3 +1,10 @@
+<a name="1.0.168"></a>
+# [1.0.168](https://demo.interval-soft.com/) (2020-08-03)
+  
+### Feature
+  * main dashboard refactored by design & color (Otgoo)
+  * main dashboard renamed into home (Otgoo)
+
 <a name="1.0.167"></a>
 # [1.0.167](https://demo.interval-soft.com/) (2020-07-31)
   
