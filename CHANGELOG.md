@@ -4,6 +4,7 @@
 ### Feature
   * main dashboard refactored by design & color (Otgoo)
   * main dashboard renamed into home (Otgoo)
+  * changed toe & target properties appearance of duplicate assignment dialog (Boloroo)
 
 <a name="1.0.167"></a>
 # [1.0.167](https://demo.interval-soft.com/) (2020-07-31)
