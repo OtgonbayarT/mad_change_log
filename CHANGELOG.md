@@ -5,6 +5,7 @@
   * tooltips replaced (Otgoo)
   * toe report delete button will be disabled during generation process (Otgoo)
   * Duplicate Assignment (Boloroo)
+  * Changed submenu [Help] (Daima)
 
 ### Bug
   * f5 on Edit Agency fixed  (Otgoo)
