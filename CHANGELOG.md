@@ -3,6 +3,7 @@
   
 ### Feature
   * main dashboard quick menu text + USER changed + User (Otgoo)
+  * Duplicate Target Property in Toe Form (Boloroo)
   
 ### Bug
   * toe during doc generation delete button will be disabled (Otgoo)
