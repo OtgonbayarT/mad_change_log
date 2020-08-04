@@ -1,3 +1,13 @@
+<a name="1.0.169"></a>
+# [1.0.169](https://demo.interval-soft.com/) (2020-08-04)
+  
+### Feature
+  * main dashboard quick menu text + USER changed + User (Otgoo)
+  
+### Bug
+  * toe during doc generation delete button will be disabled (Otgoo)
+
+
 <a name="1.0.168"></a>
 # [1.0.168](https://demo.interval-soft.com/) (2020-08-03)
   
