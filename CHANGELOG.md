@@ -3,7 +3,7 @@
   
 ### Feature
   * main dashboard refactored by design & color (Otgoo)
-  * main dashboard renamed into home (Otgoo)
+  * main dashboard renamed home (Otgoo)
   * changed toe & target properties appearance of duplicate assignment dialog (Boloroo)
 
 <a name="1.0.167"></a>
