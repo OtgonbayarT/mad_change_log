@@ -6,6 +6,7 @@
   
 ### Bug
   * toe during doc generation delete button will be disabled (Otgoo)
+  * Added tooltip icon on duplicate assignment dialog and changed title (Boloroo)
 
 
 <a name="1.0.168"></a>
