@@ -1,3 +1,9 @@
+<a name="1.0.170"></a>
+# [1.0.170](https://demo.interval-soft.com/) (Release candidate)
+  
+### Feature
+  * Main dashboard approaches to value chart added (Boloroo)
+
 <a name="1.0.169"></a>
 # [1.0.169](https://demo.interval-soft.com/) (2020-08-04)
   
