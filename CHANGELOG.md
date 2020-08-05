@@ -1,5 +1,5 @@
 <a name="1.0.170"></a>
-# [1.0.170](https://demo.interval-soft.com/)
+# [1.0.170](https://demo.interval-soft.com/) (2020-08-05)
   
 ### Feature
   * Main dashboard approaches to value chart added (Boloroo)
