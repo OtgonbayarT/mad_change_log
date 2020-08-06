@@ -6,6 +6,8 @@
   * showed marker info on modal in the right side of the comparable map [apartment, office ](Daima)
   * locked changing the marker position when coping building info on the comparable edit form [apartment, office ] (Daima)
   * showed the building marker info on building information dialog when clicking on the marker [UI changes ] (Daima)
+  ### Bug
+  * RICS icon added on Help menu  (Daima)
 
 <a name="1.0.169"></a>
 # [1.0.169](https://demo.interval-soft.com/) (2020-08-04)
