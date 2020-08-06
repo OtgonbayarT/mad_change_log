@@ -1,3 +1,9 @@
+<a name="1.0.171"></a>
+# [1.0.171](https://demo.interval-soft.com/) (2020-08-06)
+  
+### Feature
+  *
+
 <a name="1.0.170"></a>
 # [1.0.170](https://demo.interval-soft.com/) (2020-08-05)
   
