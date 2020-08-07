@@ -1,3 +1,9 @@
+<a name="1.0.172"></a>
+# [1.0.172](https://demo.interval-soft.com/) (2020-08-07)
+
+### Feature
+  * Added Documents Generated widget to Main dashboard (Boloroo)
+
 <a name="1.0.171"></a>
 # [1.0.171](https://demo.interval-soft.com/) (2020-08-06)
   
