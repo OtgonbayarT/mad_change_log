@@ -1,3 +1,9 @@
+<a name="1.0.173"></a>
+# [1.0.173](https://demo.interval-soft.com/) (2020-08-11)
+
+### Bug
+ * Issue List - Aug/8 #2 (Boloroo)
+
 <a name="1.0.172"></a>
 # [1.0.172](https://demo.interval-soft.com/) (2020-08-07)
 
