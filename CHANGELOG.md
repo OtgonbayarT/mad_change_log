@@ -3,6 +3,7 @@
 
 ### Bug
  * Issue List - Aug/8 #2 (Boloroo)
+ * Issue List - Aug/8 #3 (Boloroo)
 
 <a name="1.0.172"></a>
 # [1.0.172](https://demo.interval-soft.com/) (2020-08-07)
