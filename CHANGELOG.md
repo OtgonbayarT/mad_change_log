@@ -6,6 +6,7 @@
  * Issue List - Aug/8 #3 (Boloroo)
  * Issue List - Aug/8 #5 (Daima)
  * Issue List - Aug/8 #6 (Boloroo)
+ * Issue List - Aug/8 #8 (Boloroo)
  
 
 <a name="1.0.172"></a>
