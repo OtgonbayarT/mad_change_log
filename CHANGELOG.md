@@ -1,5 +1,5 @@
 <a name="1.0.173"></a>
-# [1.0.173](https://demo.interval-soft.com/) (2020-08-11)
+# [1.0.173](https://demo.interval-soft.com/) (2020-08-12)
 
 ### Bug
  * Issue List - Aug/8 #2 (Boloroo)
