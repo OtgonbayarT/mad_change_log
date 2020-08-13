@@ -3,6 +3,7 @@
  
 ### Feature
 * Main Dashboard comparables real data implemented (featured picture not checked might be buggy, page navigation not added yet) (Otgoo)
+* Main Dashboard ongoing projects real data implemented (Boloroo)
 
 
 <a name="1.0.173"></a>
