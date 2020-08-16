@@ -3,6 +3,10 @@
  
 ### Feature
  * Main Dashboard comparables featured picture added (Otgoo)
+ * Main Dashboard comparables prev/next button added (Otgoo)
+
+### Bug
+ * Quick access button's color restored (Otgoo)
 
 
 <a name="1.0.174"></a>
