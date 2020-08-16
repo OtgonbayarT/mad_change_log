@@ -1,9 +1,16 @@
+<a name="1.0.175"></a>
+# [1.0.175](https://demo.interval-soft.com/) (2020-08-16)
+ 
+### Feature
+ * Main Dashboard comparables featured picture (Otgoo)
+
+
 <a name="1.0.174"></a>
 # [1.0.174](https://demo.interval-soft.com/) (2020-08-13)
  
 ### Feature
-* Main Dashboard comparables real data implemented (featured picture not checked might be buggy, page navigation not added yet) (Otgoo)
-* Main Dashboard ongoing projects real data implemented (Boloroo)
+ * Main Dashboard comparables real data implemented (featured picture not checked might be buggy, page navigation not added yet) (Otgoo)
+ * Main Dashboard ongoing projects real data implemented (Boloroo)
 
 
 <a name="1.0.173"></a>
