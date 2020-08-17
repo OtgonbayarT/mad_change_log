@@ -2,6 +2,7 @@
 # [1.0.176](https://demo.interval-soft.com/) (2020-08-17)
 ### Feature
  * "Ongoing Projects" Dashboard now has prev/next button and ongoing percents (Boloroo) 
+ * "Most Active Users" added on Main Dashboard (Otgoo) 
 
 <a name="1.0.175"></a>
 # [1.0.175](https://demo.interval-soft.com/) (2020-08-16)
