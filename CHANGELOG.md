@@ -1,3 +1,8 @@
+<a name="1.0.177"></a>
+# [1.0.177](https://demo.interval-soft.com/) (2020-08-20)
+### Feature
+ * done Valuation second tab [for apartment] (Daima)
+ 
 <a name="1.0.176"></a>
 # [1.0.176](https://demo.interval-soft.com/) (2020-08-17)
 ### Feature
