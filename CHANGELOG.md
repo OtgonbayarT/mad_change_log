@@ -1,3 +1,7 @@
+<a name="1.0.179"></a> 
+# [1.0.179](https://demo.interval-soft.com/) (2020-08-21) (release candidate)
+### Feature
+* Added permission on Task reach button (Daima)
 <a name="1.0.178"></a>
 # [1.0.178](https://demo.interval-soft.com/) (2020-08-21)
 ### Feature
