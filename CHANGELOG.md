@@ -1,3 +1,9 @@
+<a name="1.0.178"></a>
+# [1.0.178](https://demo.interval-soft.com/) (2020-08-21)
+### Feature
+ * Localization improvement - localization can be changed runtime on server without re-releasing (Boloroo)
+ * User tooltip added on Maindashboard's Ongoing project section (Otgoo)
+
 <a name="1.0.177"></a>
 # [1.0.177](https://demo.interval-soft.com/) (2020-08-20)
 ### Feature
