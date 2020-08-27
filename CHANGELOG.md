@@ -1,5 +1,5 @@
 <a name="1.0.179"></a> 
-# [1.0.179](https://demo.interval-soft.com/) (2020-08-27) (release candidate)
+# [1.0.179](https://demo.interval-soft.com/) (2020-08-27)
 ### Feature
  * Added permission on Task reach button (Daima)
  * Added changing currency and getting completed ToEs by different criteria (last, top revenue etc.) to ToE Bubble Chart (Boloroo) 
