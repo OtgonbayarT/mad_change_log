@@ -1,5 +1,5 @@
 <a name="1.0.180"></a> 
-# [1.0.180](https://demo.interval-soft.com/) (2020-08-28)
+# [1.0.180](https://demo.interval-soft.com/) (2020-08-31)
 ### Bug
  * Issue List - Aug 19 #15 - Date filters - Changed date format to american/international format and change "TO" to "to" (Boloroo)
  * Issue List - Aug 19 #23 - Duplicate assignment - Initial figures are now in right numbers after duplicate assignment (Boloroo)
