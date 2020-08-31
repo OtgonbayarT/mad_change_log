@@ -7,6 +7,8 @@
  * Issue List - Aug 19 #7 - Ongoing projects dashboard - Only ToE ID is hyperlink (Boloroo)
  * Issue List - Aug 19 #8 - Most active users dashboard - Removed hover effect from user IDs (Boloroo)
  * Issue List - Aug 19 #9 - Last comparables dashboard - Changed name to "Latest Comparables" and removed hover effects (Boloroo)
+ * Issue List - Aug 19 #10 - Last comparables dashboard - "Next" button cannot be pressed twice in last page (Boloroo)
+ * Issue List - Aug 19 #18 - Typo Fix
 <a name="1.0.179"></a> 
 # [1.0.179](https://demo.interval-soft.com/) (2020-08-27)
 ### Feature
