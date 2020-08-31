@@ -1,9 +1,12 @@
 <a name="1.0.180"></a> 
 # [1.0.180](https://demo.interval-soft.com/) (2020-08-28)
 ### Bug
- * Issue List - Aug 19 #15 (Boloroo)
- * Issue List - Aug 19 #23, 24 (Boloroo)
- * Issue List - Aug 19 #7, 8, 9 (Boloroo)
+ * Issue List - Aug 19 #15 - Date filters - Changed date format to american/international format and change "TO" to "to" (Boloroo)
+ * Issue List - Aug 19 #23 - Duplicate assignment - Initial figures are now in right numbers after duplicate assignment (Boloroo)
+ * Issue List - Aug 19 #24 - Duplicate assignment - Status of duplicated TPs are now "draft" (Boloroo)
+ * Issue List - Aug 19 #7 - Ongoing projects dashboard - Only ToE ID is hyperlink (Boloroo)
+ * Issue List - Aug 19 #8 - Most active users dashboard - Removed hover effect from user IDs (Boloroo)
+ * Issue List - Aug 19 #9 - Last comparables dashboard - Changed name to "Latest Comparables" and removed hover effects (Boloroo)
 <a name="1.0.179"></a> 
 # [1.0.179](https://demo.interval-soft.com/) (2020-08-27)
 ### Feature
