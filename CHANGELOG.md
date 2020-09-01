@@ -17,6 +17,7 @@
  * Issue List - Aug 19 #20 - Remember me check box fix (Daima)
  * Issue List - Aug 19 #25 - Added warning modal when trying to close ToE form (Daima)
  * Issue List - Aug 19 #5 - Google map fixed (Daima)
+ * Issue List - Aug 19 #21 - Assignment, ToE, Audit Trails, Apartment, Office list filters are still applied when we change page (other filters are work in progress) (Boloroo)
 <a name="1.0.179"></a> 
 # [1.0.179](https://demo.interval-soft.com/) (2020-08-27)
 ### Feature
