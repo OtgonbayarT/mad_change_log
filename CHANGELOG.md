@@ -1,6 +1,7 @@
 <a name="1.0.180"></a> 
-# [1.0.180](https://demo.interval-soft.com/) (2020-08-31)
+# [1.0.180](https://demo.interval-soft.com/) (2020-09-01)
 ### Bug
+ * Issue List - Aug 19 #6 - After adding a landmark from homepage, back button will send to landmark list (Daima)
  * Issue List - Aug 19 #15 - Date filters - Changed date format to american/international format and change "TO" to "to" (Boloroo)
  * Issue List - Aug 19 #23 - Duplicate assignment - Initial figures are now in right numbers after duplicate assignment (Boloroo)
  * Issue List - Aug 19 #24 - Duplicate assignment - Status of duplicated TPs are now "draft" (Boloroo)
@@ -8,7 +9,14 @@
  * Issue List - Aug 19 #8 - Most active users dashboard - Removed hover effect from user IDs (Boloroo)
  * Issue List - Aug 19 #9 - Last comparables dashboard - Changed name to "Latest Comparables" and removed hover effects (Boloroo)
  * Issue List - Aug 19 #10 - Last comparables dashboard - "Next" button cannot be pressed twice in last page (Boloroo)
- * Issue List - Aug 19 #18 - Typo Fix
+ * Issue List - Aug 19 #18 - Typo Fix (Boloroo)
+ * Issue List - Aug 19 #1 - You created a new ToE notification's hyperlink takes you to assignment dashboard (Daima)
+ * Issue List - Aug 19 #2 - Notifications menu will persist after deleting a notification (Daima)
+ * Issue List - Aug 19 #3 - Changed notification text (Daima)
+ * Issue List - Aug 19 #4 - In agency list view, city and country are mandatory (Daima)
+ * Issue List - Aug 19 #20 - Remember me check box fix (Daima)
+ * Issue List - Aug 19 #25 - Added warning modal when trying to close ToE form (Daima)
+ * Issue List - Aug 19 #5 - Google map fixed (Daima)
 <a name="1.0.179"></a> 
 # [1.0.179](https://demo.interval-soft.com/) (2020-08-27)
 ### Feature
