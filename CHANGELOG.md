@@ -1,3 +1,14 @@
+<a name="1.0.181"></a> 
+# [1.0.181](https://demo.interval-soft.com/) (2020-09-01)
+### Bug
+ * Issue List - Aug 19 #1 - You created a new ToE notification's hyperlink takes you to assignment dashboard (Daima)
+ * Issue List - Aug 19 #2 - Notifications menu will persist after deleting a notification (Daima)
+ * Issue List - Aug 19 #3 - Changed notification text (Daima)
+ * Issue List - Aug 19 #4 - In agency list view, city and country are mandatory (Daima)
+ * Issue List - Aug 19 #20 - Remember me check box fix (Daima)
+ * Issue List - Aug 19 #25 - Added warning modal when trying to close ToE form (Daima)
+ * Issue List - Aug 19 #5 - Google map fixed (Daima)
+
 <a name="1.0.180"></a> 
 # [1.0.180](https://demo.interval-soft.com/) (2020-09-01)
 ### Bug
@@ -10,13 +21,7 @@
  * Issue List - Aug 19 #9 - Last comparables dashboard - Changed name to "Latest Comparables" and removed hover effects (Boloroo)
  * Issue List - Aug 19 #10 - Last comparables dashboard - "Next" button cannot be pressed twice in last page (Boloroo)
  * Issue List - Aug 19 #18 - Typo Fix (Boloroo)
- * Issue List - Aug 19 #1 - You created a new ToE notification's hyperlink takes you to assignment dashboard (Daima)
- * Issue List - Aug 19 #2 - Notifications menu will persist after deleting a notification (Daima)
- * Issue List - Aug 19 #3 - Changed notification text (Daima)
- * Issue List - Aug 19 #4 - In agency list view, city and country are mandatory (Daima)
- * Issue List - Aug 19 #20 - Remember me check box fix (Daima)
- * Issue List - Aug 19 #25 - Added warning modal when trying to close ToE form (Daima)
- * Issue List - Aug 19 #5 - Google map fixed (Daima)
+
  * Issue List - Aug 19 #21 - Assignment, ToE, Audit Trails, Apartment, Office list filters are still applied when we change page (other filters are work in progress) (Boloroo)
 <a name="1.0.179"></a> 
 # [1.0.179](https://demo.interval-soft.com/) (2020-08-27)
