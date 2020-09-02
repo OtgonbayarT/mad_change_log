@@ -1,3 +1,7 @@
+<a name="1.0.182"></a> 
+# [1.0.182](https://demo.interval-soft.com/) (2020-09-02)
+### Bug
+ * Issue List - Aug 19 #22 - Duplicating Assignment will create only 2 notifications. One for person who duplicated it and another for new project manager. (Boloroo)
 <a name="1.0.181"></a> 
 # [1.0.181](https://demo.interval-soft.com/) (2020-09-01)
 ### Bug
