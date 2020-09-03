@@ -4,6 +4,9 @@
  * Issue List - Aug 19 #11 Admin tasks (Project Manager)	- There should be a "Lead Valuer" column I believe. (Daima)
  * Issue List - Aug 19 #12 Admin tasks (Lead Valuer)	There should be a "Project Manager" column I believe. (Daima)
  * Issue List - Aug 19 #17 Assigning users to tasks - LV	LVs should be able to assign users to tasks. (Daima)
+ * Issue List - Aug 19 #14 - My Tasks search tool - Getting more results when typing in search is fixed. (Boloroo)
+ * Issue List - Aug 19 #16 - My Tasks filter plus search tool - This issue was being caused because of issue #14. So fixing #14 fixes this issue. (Boloroo)
+ * Issue List - AUg 19 #19 - Admin Tasks - unassigned user filter works properly (Boloroo)
 
 <a name="1.0.182"></a> 
 # [1.0.182](https://demo.interval-soft.com/) (2020-09-02)
