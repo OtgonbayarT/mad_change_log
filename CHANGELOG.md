@@ -1,14 +1,15 @@
-<a name="1.0.182"></a> 
-# [1.0.182](https://demo.interval-soft.com/) (2020-09-02) [Release candidate]
+<a name="1.0.183"></a> 
+# [1.0.183](https://demo.interval-soft.com/) (2020-09-03) [Release candidate]
 ### Bug
- * Issue List - Aug 19 #22 - Duplicating Assignment will create only 2 notifications. One for person who duplicated it and another for new project manager. (Boloroo)
-<a name="1.0.181"></a>
+ * Issue List - Aug 19 #11 Admin tasks (Project Manager)	- There should be a "Lead Valuer" column I believe. (Daima)
+ * Issue List - Aug 19 #12 Admin tasks (Lead Valuer)	There should be a "Project Manager" column I believe. (Daima)
+ * Issue List - Aug 19 #17 Assigning users to tasks - LV	LVs should be able to assign users to tasks. (Daima)
 
 <a name="1.0.182"></a> 
 # [1.0.182](https://demo.interval-soft.com/) (2020-09-02)
 ### Bug
  * Issue List - Aug 19 #22 - Duplicating Assignment will create only 2 notifications. One for person who duplicated it and another for new project manager. (Boloroo)
-<a name="1.0.181"></a>
+<a name="1.0.182"></a>
 
 # [1.0.181](https://demo.interval-soft.com/) (2020-09-01)
 ### Bug
