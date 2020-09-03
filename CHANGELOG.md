@@ -1,6 +1,8 @@
 <a name="1.0.183"></a> 
 # [1.0.183](https://demo.interval-soft.com/) (2020-09-03) [Release candidate]
 ### Bug
+ * bug header vertical center on ToE dashboard [css]. (Daima)
+ * ToE edit form - rever to draft button functionality bug. (Daima)
  * Issue List - Aug 19 #11 Admin tasks (Project Manager)	- There should be a "Lead Valuer" column I believe. (Daima)
  * Issue List - Aug 19 #12 Admin tasks (Lead Valuer)	There should be a "Project Manager" column I believe. (Daima)
  * Issue List - Aug 19 #17 Assigning users to tasks - LV	LVs should be able to assign users to tasks. (Daima)
