@@ -7,6 +7,7 @@
  * Issue List - Aug 19 #14 - My Tasks search tool - Getting more results when typing in search is fixed. (Boloroo)
  * Issue List - Aug 19 #16 - My Tasks filter plus search tool - This issue was being caused because of issue #14. So fixing #14 fixes this issue. (Boloroo)
  * Issue List - Aug 19 #19 - Admin Tasks - unassigned user filter works properly (Boloroo)
+ * Notification time bug on safari web browser fixed (Boloroo)
 
 <a name="1.0.182"></a> 
 # [1.0.182](https://demo.interval-soft.com/) (2020-09-02)
