@@ -1,5 +1,9 @@
+<a name="1.0.184"></a> 
+# [1.0.184](https://demo.interval-soft.com/) (2020-09-04)
+### Feature
+ * My Tasks Page - Tasks in list are separated by completion status. Completed tasks will be always on bottom of table. (Boloroo)
 <a name="1.0.183"></a> 
-# [1.0.183](https://demo.interval-soft.com/) (2020-09-03) [Release candidate]
+# [1.0.183](https://demo.interval-soft.com/) (2020-09-03)
 ### Bug
  * bug header vertical center on ToE dashboard [css]. (Daima)
  * ToE edit form - rever to draft button functionality bug. (Daima)
