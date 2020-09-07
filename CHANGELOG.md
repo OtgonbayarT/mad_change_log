@@ -1,3 +1,11 @@
+<a name="1.0.185"></a> 
+# [1.0.185](https://demo.interval-soft.com/) (2020-09-07)
+### Feature
+ * ToE team members edit section - PM and LV can add and remove member. And only PM can change lead valuer. (Boloroo)
+### Bug
+ * Bug - [object Object] bug in Building Characteristics form (Boloroo)
+ * Bug - Contacts information list (Boloroo)
+ * Bug - ToE Form - Valuation will be deleted after deleting target properties (Boloroo)
 <a name="1.0.184"></a> 
 # [1.0.184](https://demo.interval-soft.com/) (2020-09-04)
 ### Feature
