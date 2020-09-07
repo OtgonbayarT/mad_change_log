@@ -6,6 +6,7 @@
  * Bug - [object Object] bug in Building Characteristics form (Boloroo)
  * Bug - Contacts information list (Boloroo)
  * Bug - ToE Form - Valuation will be deleted after deleting target properties (Boloroo)
+ * Bug - Prices in ToE payment tab have fixed decimals (Boloroo)
 <a name="1.0.184"></a> 
 # [1.0.184](https://demo.interval-soft.com/) (2020-09-04)
 ### Feature
