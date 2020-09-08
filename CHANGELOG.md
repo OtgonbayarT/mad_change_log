@@ -4,6 +4,9 @@
  * Bug - Inspection and Review fix in ToE Dashboard (Boloroo)
  * Bug - ToE dashboard task and My Task page - Task color fixed (Daima)
  * Bug - ToE dashboard button fix - Can't go to ToE dashboard from ToE page which is not signed (Daima)
+ * Bug - timer issue when tab is inactive (Daima)
+ * Bug - timer issue when using multiple tab (Daima)
+
 <a name="1.0.185"></a> 
 # [1.0.185](https://demo.interval-soft.com/) (2020-09-07)
 ### Feature
