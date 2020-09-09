@@ -1,8 +1,8 @@
 <a name="1.0.187"></a> 
-# [1.0.186](https://demo.interval-soft.com/) (2020-09-08)
-### Bug
- * Bug - Inspection and Review fix in ToE Dashboard (Boloroo)
- * Bug - ToE dashboard task and My Task page - Task color fixed (Daima)
+# [1.0.187](https://demo.interval-soft.com/) (2020-09-09)
+### Feature
+ * Task pages and Toe Dashboard - added color explaination 
+ * LV and Admin Task page  - changed for 2 color (red and green)
  
 <a name="1.0.186"></a> 
 # [1.0.186](https://demo.interval-soft.com/) (2020-09-08)
