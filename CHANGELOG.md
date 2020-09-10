@@ -1,5 +1,5 @@
 <a name="1.0.188"></a> 
-# [1.0.188](https://demo.interval-soft.com/) (2020-09-10) (Release Candidate)
+# [1.0.188](https://demo.interval-soft.com/) (2020-09-10)
 ### Feature
  * Can add unformal description to ToE generated report (Boloroo)
 <a name="1.0.187"></a> 
