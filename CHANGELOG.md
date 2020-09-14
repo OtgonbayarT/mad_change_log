@@ -1,3 +1,7 @@
+<a name="1.0.189"></a> 
+# [1.0.189](https://demo.interval-soft.com/) (2020-09-14)
+### Feature
+ * Audit trail report generation now exclude not signed toes but has a option to include (Boloroo)
 <a name="1.0.188"></a> 
 # [1.0.188](https://demo.interval-soft.com/) (2020-09-10)
 ### Feature
