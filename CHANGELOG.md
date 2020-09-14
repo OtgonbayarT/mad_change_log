@@ -3,6 +3,8 @@
 ### Feature
  * Audit trail report generation now exclude not signed toes but has a option to include (Boloroo)
  * Changed ToE list Title (Boloroo)
+ * get Bold some text on All info popover (Daima)
+ * Changed delete button tooltip and condition to disable (Daima)
 <a name="1.0.188"></a> 
 # [1.0.188](https://demo.interval-soft.com/) (2020-09-10)
 ### Feature
@@ -10,8 +12,8 @@
 <a name="1.0.187"></a> 
 # [1.0.187](https://demo.interval-soft.com/) (2020-09-09)
 ### Feature
- * Task pages and Toe Dashboard - added color explaination 
- * LV and Admin Task page  - changed for 2 color (red and green)
+ * Task pages and Toe Dashboard - added color explaination (Daima)
+ * LV and Admin Task page  - changed for 2 color (red and green)(Daima)
  
 <a name="1.0.186"></a> 
 # [1.0.186](https://demo.interval-soft.com/) (2020-09-08)
