@@ -1,3 +1,7 @@
+<a name="1.0.190"></a> 
+# [1.0.190](https://demo.interval-soft.com/) (2020-09-15)
+### Bug
+ * Expiration Date bug fix (Boloroo)
 <a name="1.0.189"></a> 
 # [1.0.189](https://demo.interval-soft.com/) (2020-09-14)
 ### Feature
