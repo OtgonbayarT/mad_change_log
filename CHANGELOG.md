@@ -1,3 +1,9 @@
+<a name="1.0.191"></a> 
+# [1.0.191](https://demo.interval-soft.com/) (2020-10-05) (Release Candidate)
+### Feature
+ - New metronic update
+### Bug
+ - Issue List 8 - Fixed singular/plural bug in main dashboard ongoing projects widget (Boloroo) 
 <a name="1.0.190"></a> 
 # [1.0.190](https://demo.interval-soft.com/) (2020-09-15)
 ### Bug
