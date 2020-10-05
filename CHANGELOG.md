@@ -5,6 +5,7 @@
 ### Bug
  - Issue List 8 - Fixed singular/plural bug in main dashboard ongoing projects widget (Boloroo) 
  - Issue List 5 - Added page break between ToEs in audit report (Boloroo)
+ - Issue List 4 - Added ToE Status row in audit report (Boloroo)
 <a name="1.0.190"></a> 
 # [1.0.190](https://demo.interval-soft.com/) (2020-09-15)
 ### Bug
