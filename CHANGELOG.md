@@ -1,5 +1,5 @@
 <a name="1.0.191"></a> 
-# [1.0.191](https://demo.interval-soft.com/) (2020-10-05) (Release Candidate)
+# [1.0.191](https://demo.interval-soft.com/) (2020-10-06) (Release Candidate)
 ### Feature
  - New metronic update
 ### Bug
@@ -7,6 +7,7 @@
  - Issue List 5 - Added page break between ToEs in audit report (Boloroo)
  - Issue List 4 - Added ToE Status row in audit report (Boloroo)
  - Issue List 7 - Fixed audit report interaction title (Boloroo)
+ - Issue List 6 - Added ref column to audit trails list (Boloroo)
 <a name="1.0.190"></a> 
 # [1.0.190](https://demo.interval-soft.com/) (2020-09-15)
 ### Bug
